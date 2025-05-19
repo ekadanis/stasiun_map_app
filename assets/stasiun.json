@@ -1,0 +1,7157 @@
+[
+  {
+    "stasiun_id": "107",
+    "stasiun_name": "AIR ASAM",
+    "city": "KAB. MUARA ENIM",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.647220",
+    "longitude": "104.250830",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "1",
+    "stasiun_name": "Lambaro",
+    "city": "KAB. ACEH BESAR",
+    "province": "ACEH",
+    "latitude": "5.503240",
+    "longitude": "95.352420",
+    "jumlah_penduduk": "5554800"
+  },
+  {
+    "stasiun_id": "623",
+    "stasiun_name": "LECES",
+    "city": "KAB. PROBOLINGGO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.846860",
+    "longitude": "113.229000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "624",
+    "stasiun_name": "PROBOLINGGO",
+    "city": "KAB. PROBOLINGGO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.742680",
+    "longitude": "113.215800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "738",
+    "stasiun_name": "GRATI",
+    "city": "KOTA PASURUAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.717470",
+    "longitude": "113.012200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "739",
+    "stasiun_name": "PASURUAN",
+    "city": "KOTA PASURUAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.637390",
+    "longitude": "112.909800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "740",
+    "stasiun_name": "REJOSO",
+    "city": "KOTA PASURUAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.689510",
+    "longitude": "112.965800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "6",
+    "stasiun_name": "KRUENG GEUKUEH",
+    "city": "KAB. ACEH UTARA",
+    "province": "ACEH",
+    "latitude": "5.247140",
+    "longitude": "97.009670",
+    "jumlah_penduduk": "5554800"
+  },
+  {
+    "stasiun_id": "7",
+    "stasiun_name": "KRUENG MANE",
+    "city": "KAB. ACEH UTARA",
+    "province": "ACEH",
+    "latitude": "5.253430",
+    "longitude": "96.931320",
+    "jumlah_penduduk": "5554800"
+  },
+  {
+    "stasiun_id": "16",
+    "stasiun_name": "KUALA BINGEI",
+    "city": "KAB. LANGKAT",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.663590",
+    "longitude": "98.460480",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "20",
+    "stasiun_name": "ARAS KABU",
+    "city": "KAB. DELI SERDANG",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.612790",
+    "longitude": "98.847840",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "21",
+    "stasiun_name": "BATANG KUIS",
+    "city": "KAB. DELI SERDANG",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.594240",
+    "longitude": "98.756230",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "22",
+    "stasiun_name": "LUBUK PAKAM",
+    "city": "KAB. DELI SERDANG",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.563600",
+    "longitude": "98.878600",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "23",
+    "stasiun_name": "BAHLIAS",
+    "city": "KAB. SIMALUNGUN",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.201200",
+    "longitude": "99.340330",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "24",
+    "stasiun_name": "BAJALINGGEI",
+    "city": "KAB. SERDANG BEDAGAI",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.167410",
+    "longitude": "99.110930",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "25",
+    "stasiun_name": "DOLOK MERANGIR",
+    "city": "KAB. SIMALUNGUN",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.117620",
+    "longitude": "99.117190",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "26",
+    "stasiun_name": "PERLANAAN",
+    "city": "KAB. SIMALUNGUN",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.175600",
+    "longitude": "99.364990",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "27",
+    "stasiun_name": "BANDAR TINGGI",
+    "city": "KAB. SIMALUNGUN",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.284420",
+    "longitude": "99.304810",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "28",
+    "stasiun_name": "AEK LOBA",
+    "city": "KAB. ASAHAN",
+    "province": "SUMATERA UTARA",
+    "latitude": "2.651610",
+    "longitude": "99.615780",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "29",
+    "stasiun_name": "KISARAN",
+    "city": "KAB. ASAHAN",
+    "province": "SUMATERA UTARA",
+    "latitude": "2.986210",
+    "longitude": "99.619380",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "30",
+    "stasiun_name": "PULU RAJA",
+    "city": "KAB. ASAHAN",
+    "province": "SUMATERA UTARA",
+    "latitude": "2.697210",
+    "longitude": "99.617000",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "31",
+    "stasiun_name": "TELUK DALAM",
+    "city": "KAB. ASAHAN",
+    "province": "SUMATERA UTARA",
+    "latitude": "2.827970",
+    "longitude": "99.626700",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "32",
+    "stasiun_name": "RANTAU PRAPAT",
+    "city": "KAB. LABUHANBATU",
+    "province": "SUMATERA UTARA",
+    "latitude": "2.113400",
+    "longitude": "99.820980",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "33",
+    "stasiun_name": "PERBAUNGAN",
+    "city": "KAB. SERDANG BEDAGAI",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.567380",
+    "longitude": "98.952030",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "34",
+    "stasiun_name": "BAMBAN",
+    "city": "KAB. SERDANG BEDAGAI",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.437620",
+    "longitude": "99.166990",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "35",
+    "stasiun_name": "RAMPAH/PAMINGKE",
+    "city": "KAB. SERDANG BEDAGAI",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.562990",
+    "longitude": "99.014400",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "36",
+    "stasiun_name": "LIMA PULUH",
+    "city": "KAB. BATU BARA",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.173220",
+    "longitude": "99.413020",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "37",
+    "stasiun_name": "SEI BEJANGKAR",
+    "city": "KAB. BATU BARA",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.106630",
+    "longitude": "99.556400",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "38",
+    "stasiun_name": "LAUT TADOR",
+    "city": "KAB. BATU BARA",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.378600",
+    "longitude": "99.168820",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "39",
+    "stasiun_name": "MAMBANG MUDA",
+    "city": "KAB. LABUHANBATU UTARA",
+    "province": "SUMATERA UTARA",
+    "latitude": "2.565190",
+    "longitude": "99.651180",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "40",
+    "stasiun_name": "MERBAU",
+    "city": "KAB. LABUHANBATU UTARA",
+    "province": "SUMATERA UTARA",
+    "latitude": "2.260800",
+    "longitude": "99.822390",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "41",
+    "stasiun_name": "PADANG HALABAN",
+    "city": "KAB. LABUHANBATU UTARA",
+    "province": "SUMATERA UTARA",
+    "latitude": "2.315000",
+    "longitude": "99.820190",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "126",
+    "stasiun_name": "BUNGAMAS",
+    "city": "KAB. LAHAT",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.703890",
+    "longitude": "103.368060",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "175",
+    "stasiun_name": "PASAR SENEN",
+    "city": "KOTA ADM. JAKARTA PUSAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.174500",
+    "longitude": "106.844200",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "176",
+    "stasiun_name": "RAJAWALI",
+    "city": "KOTA ADM. JAKARTA PUSAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.145080",
+    "longitude": "106.836800",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "177",
+    "stasiun_name": "TANAH ABANG",
+    "city": "KOTA ADM. JAKARTA PUSAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.186100",
+    "longitude": "106.810800",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "178",
+    "stasiun_name": "Gondangdia",
+    "city": "KOTA JAKARTA PUSAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.186100",
+    "longitude": "106.832800",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "179",
+    "stasiun_name": "Juanda",
+    "city": "KOTA JAKARTA PUSAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.166560",
+    "longitude": "106.830400",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "180",
+    "stasiun_name": "Karet",
+    "city": "KOTA JAKARTA PUSAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.200810",
+    "longitude": "106.816000",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "182",
+    "stasiun_name": "Mangga Besar",
+    "city": "KOTA JAKARTA PUSAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.149780",
+    "longitude": "106.827000",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "183",
+    "stasiun_name": "Sawah Besar",
+    "city": "KOTA JAKARTA PUSAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.160580",
+    "longitude": "106.827600",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "184",
+    "stasiun_name": "Sentiong",
+    "city": "KOTA JAKARTA PUSAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.186280",
+    "longitude": "106.851000",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "185",
+    "stasiun_name": "Sudirman",
+    "city": "KOTA JAKARTA PUSAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.202090",
+    "longitude": "106.823400",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "186",
+    "stasiun_name": "ANCOL",
+    "city": "KOTA ADM. JAKARTA UTARA",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.128110",
+    "longitude": "106.844800",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "187",
+    "stasiun_name": "JAKARTA GUDANG",
+    "city": "KOTA ADM. JAKARTA UTARA",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.133300",
+    "longitude": "106.819400",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "188",
+    "stasiun_name": "TANJUNG PRIOK",
+    "city": "KOTA ADM. JAKARTA UTARA",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.110410",
+    "longitude": "106.882000",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "189",
+    "stasiun_name": "Kampung Bandan Atas",
+    "city": "KOTA JAKARTA UTARA",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.133000",
+    "longitude": "106.828400",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "190",
+    "stasiun_name": "Kampung Bandan Bawah",
+    "city": "KOTA JAKARTA UTARA",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.132390",
+    "longitude": "106.828600",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "191",
+    "stasiun_name": "Pasoso",
+    "city": "KOTA JAKARTA UTARA",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.109380",
+    "longitude": "106.884000",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "192",
+    "stasiun_name": "Sungai Lagoa",
+    "city": "KOTA JAKARTA UTARA",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.112790",
+    "longitude": "106.875800",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "193",
+    "stasiun_name": "ANGKE",
+    "city": "KOTA ADM. JAKARTA BARAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.144710",
+    "longitude": "106.800800",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "194",
+    "stasiun_name": "DURI",
+    "city": "KOTA ADM. JAKARTA BARAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.155880",
+    "longitude": "106.801600",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "195",
+    "stasiun_name": "JAKARTA KOTA",
+    "city": "KOTA ADM. JAKARTA BARAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.136600",
+    "longitude": "106.816600",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "196",
+    "stasiun_name": "Bojong Indah",
+    "city": "KOTA JAKARTA BARAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.159970",
+    "longitude": "106.736600",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "197",
+    "stasiun_name": "Grogol",
+    "city": "KOTA JAKARTA BARAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.162110",
+    "longitude": "106.789400",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "198",
+    "stasiun_name": "Jayakarta",
+    "city": "KOTA JAKARTA PUSAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.141300",
+    "longitude": "106.823000",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "199",
+    "stasiun_name": "Kalideres",
+    "city": "KOTA JAKARTA BARAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.166080",
+    "longitude": "106.703400",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "200",
+    "stasiun_name": "Pesing",
+    "city": "KOTA JAKARTA BARAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.161190",
+    "longitude": "106.772000",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "201",
+    "stasiun_name": "Rawa Buaya",
+    "city": "KOTA JAKARTA BARAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.162600",
+    "longitude": "106.723600",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "202",
+    "stasiun_name": "Taman Kota",
+    "city": "KOTA JAKARTA BARAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.158570",
+    "longitude": "106.756600",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "203",
+    "stasiun_name": "KEBAYORAN",
+    "city": "KOTA ADM. JAKARTA SELATAN",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.237370",
+    "longitude": "106.782400",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "204",
+    "stasiun_name": "MANGGARAI",
+    "city": "KOTA ADM. JAKARTA SELATAN",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.209900",
+    "longitude": "106.849800",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "205",
+    "stasiun_name": "Cawang",
+    "city": "KOTA JAKARTA SELATAN",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.241700",
+    "longitude": "106.858600",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "206",
+    "stasiun_name": "Duren Kalibata",
+    "city": "KOTA JAKARTA SELATAN",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.255680",
+    "longitude": "106.855000",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "207",
+    "stasiun_name": "Lenteng Agung",
+    "city": "KOTA JAKARTA SELATAN",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.329900",
+    "longitude": "106.834600",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "208",
+    "stasiun_name": "Pasar Minggu",
+    "city": "KOTA JAKARTA SELATAN",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.284360",
+    "longitude": "106.844600",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "209",
+    "stasiun_name": "Pasar Minggu Baru",
+    "city": "KOTA JAKARTA SELATAN",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.262820",
+    "longitude": "106.851800",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "210",
+    "stasiun_name": "Tanjung Barat",
+    "city": "KOTA JAKARTA SELATAN",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.308470",
+    "longitude": "106.839000",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "211",
+    "stasiun_name": "Tebet",
+    "city": "KOTA JAKARTA SELATAN",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.226680",
+    "longitude": "106.858400",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "212",
+    "stasiun_name": "Universitas Pancasila",
+    "city": "KOTA JAKARTA SELATAN",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.339110",
+    "longitude": "106.834200",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "213",
+    "stasiun_name": "BUARAN",
+    "city": "KOTA ADM. JAKARTA TIMUR",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.216190",
+    "longitude": "106.927600",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "214",
+    "stasiun_name": "CAKUNG",
+    "city": "KOTA ADM. JAKARTA TIMUR",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.219180",
+    "longitude": "106.952200",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "216",
+    "stasiun_name": "JATINEGARA",
+    "city": "KOTA ADM. JAKARTA TIMUR",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.215270",
+    "longitude": "106.870400",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "217",
+    "stasiun_name": "KLENDER",
+    "city": "KOTA ADM. JAKARTA TIMUR",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.213380",
+    "longitude": "106.900000",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "218",
+    "stasiun_name": "KLENDER BARU",
+    "city": "KOTA ADM. JAKARTA TIMUR",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.217590",
+    "longitude": "106.939800",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "219",
+    "stasiun_name": "PONDOK JATI",
+    "city": "KOTA ADM. JAKARTA TIMUR",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.208980",
+    "longitude": "106.862200",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "220",
+    "stasiun_name": "CIBINONG",
+    "city": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.463810",
+    "longitude": "106.854800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "221",
+    "stasiun_name": "CIGOMBONG",
+    "city": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.742190",
+    "longitude": "106.803000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "222",
+    "stasiun_name": "CILEJIT",
+    "city": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.354310",
+    "longitude": "106.509600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "223",
+    "stasiun_name": "MASENG",
+    "city": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.702390",
+    "longitude": "106.814600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "224",
+    "stasiun_name": "NAMBO",
+    "city": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.465090",
+    "longitude": "106.909000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "225",
+    "stasiun_name": "PARUNG PANJANG",
+    "city": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.344180",
+    "longitude": "106.568800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "226",
+    "stasiun_name": "TENJO",
+    "city": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.327580",
+    "longitude": "106.462000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "227",
+    "stasiun_name": "Bojong Gede",
+    "city": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.492680",
+    "longitude": "106.794800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "228",
+    "stasiun_name": "Cilebut",
+    "city": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.530520",
+    "longitude": "106.800600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "232",
+    "stasiun_name": "CIBADAK",
+    "city": "KAB. SUKABUMI",
+    "province": "JAWA BARAT",
+    "latitude": "-6.888180",
+    "longitude": "106.780400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "233",
+    "stasiun_name": "CICURUG",
+    "city": "KAB. SUKABUMI",
+    "province": "JAWA BARAT",
+    "latitude": "-6.790410",
+    "longitude": "106.779600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "235",
+    "stasiun_name": "CISAAT",
+    "city": "KAB. SUKABUMI",
+    "province": "JAWA BARAT",
+    "latitude": "-6.913880",
+    "longitude": "106.887600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "237",
+    "stasiun_name": "KARANG TENGAH",
+    "city": "KAB. SUKABUMI",
+    "province": "JAWA BARAT",
+    "latitude": "-6.896300",
+    "longitude": "106.822400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "238",
+    "stasiun_name": "PARUNG KUDA",
+    "city": "KAB. SUKABUMI",
+    "province": "JAWA BARAT",
+    "latitude": "-6.846500",
+    "longitude": "106.760600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "310",
+    "stasiun_name": "CIKAMPEK",
+    "city": "KAB. KARAWANG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.406070",
+    "longitude": "107.459000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "311",
+    "stasiun_name": "DAWUAN",
+    "city": "KAB. KARAWANG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.393190",
+    "longitude": "107.433400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "312",
+    "stasiun_name": "KARAWANG",
+    "city": "KAB. KARAWANG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.305180",
+    "longitude": "107.300200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "313",
+    "stasiun_name": "KLARI",
+    "city": "KAB. KARAWANG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.349980",
+    "longitude": "107.345400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "314",
+    "stasiun_name": "KOSAMBI",
+    "city": "KAB. KARAWANG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.369200",
+    "longitude": "107.374800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "316",
+    "stasiun_name": "TAMBUN",
+    "city": "KAB. BEKASI",
+    "province": "JAWA BARAT",
+    "latitude": "-6.258610",
+    "longitude": "107.055800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "317",
+    "stasiun_name": "Cibitung",
+    "city": "KAB. BEKASI",
+    "province": "JAWA BARAT",
+    "latitude": "-6.261780",
+    "longitude": "107.083600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "318",
+    "stasiun_name": "Metland Telaga Murni",
+    "city": "KAB. BEKASI",
+    "province": "JAWA BARAT",
+    "latitude": "-6.257630",
+    "longitude": "107.110800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "319",
+    "stasiun_name": "KEDUNG GEDEH",
+    "city": "KAB. BEKASI",
+    "province": "JAWA BARAT",
+    "latitude": "-6.269900",
+    "longitude": "107.261200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "320",
+    "stasiun_name": "LEMAH ABANG",
+    "city": "KAB. BEKASI",
+    "province": "JAWA BARAT",
+    "latitude": "-6.270570",
+    "longitude": "107.179800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "334",
+    "stasiun_name": "BATU TULIS",
+    "city": "KOTA BOGOR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.625790",
+    "longitude": "106.809600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "335",
+    "stasiun_name": "BOGOR",
+    "city": "KOTA BOGOR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.593810",
+    "longitude": "106.790600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "336",
+    "stasiun_name": "BOGOR PALEDANG",
+    "city": "KOTA BOGOR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.597890",
+    "longitude": "106.790540",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "337",
+    "stasiun_name": "Ciomas",
+    "city": "KOTA BOGOR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.651790",
+    "longitude": "106.809400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "338",
+    "stasiun_name": "SUKABUMI",
+    "city": "KOTA SUKABUMI",
+    "province": "JAWA BARAT",
+    "latitude": "-6.923890",
+    "longitude": "106.924800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "350",
+    "stasiun_name": "BEKASI",
+    "city": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "latitude": "-6.236690",
+    "longitude": "106.999400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "351",
+    "stasiun_name": "Kranji",
+    "city": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "latitude": "-6.224300",
+    "longitude": "106.979200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "674",
+    "stasiun_name": "MAGETAN",
+    "city": "KAB. MAGETAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.562090",
+    "longitude": "111.451170",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "352",
+    "stasiun_name": "Depok",
+    "city": "KOTA DEPOK",
+    "province": "JAWA BARAT",
+    "latitude": "-6.404660",
+    "longitude": "106.817200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "353",
+    "stasiun_name": "Depok Baru",
+    "city": "KOTA DEPOK",
+    "province": "JAWA BARAT",
+    "latitude": "-6.391300",
+    "longitude": "106.821600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "354",
+    "stasiun_name": "Pondok Cina",
+    "city": "KOTA DEPOK",
+    "province": "JAWA BARAT",
+    "latitude": "-6.368900",
+    "longitude": "106.832400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "355",
+    "stasiun_name": "Universitas Indonesia",
+    "city": "KOTA DEPOK",
+    "province": "JAWA BARAT",
+    "latitude": "-6.360720",
+    "longitude": "106.831800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "356",
+    "stasiun_name": "Citayam",
+    "city": "KOTA DEPOK",
+    "province": "JAWA BARAT",
+    "latitude": "-6.448970",
+    "longitude": "106.802400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "767",
+    "stasiun_name": "MAJA",
+    "city": "KAB. LEBAK",
+    "province": "BANTEN",
+    "latitude": "-6.332280",
+    "longitude": "106.396200",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "768",
+    "stasiun_name": "RANGKASBITUNG",
+    "city": "KAB. LEBAK",
+    "province": "BANTEN",
+    "latitude": "-6.352600",
+    "longitude": "106.251400",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "770",
+    "stasiun_name": "Citeras",
+    "city": "KAB. LEBAK",
+    "province": "BANTEN",
+    "latitude": "-6.334900",
+    "longitude": "106.332800",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "771",
+    "stasiun_name": "Cicayur",
+    "city": "KAB. TANGERANG",
+    "province": "BANTEN",
+    "latitude": "-6.329590",
+    "longitude": "106.619000",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "772",
+    "stasiun_name": "Cikoya",
+    "city": "KAB. TANGERANG",
+    "province": "BANTEN",
+    "latitude": "-6.335570",
+    "longitude": "106.411800",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "773",
+    "stasiun_name": "Cisauk",
+    "city": "KAB. TANGERANG",
+    "province": "BANTEN",
+    "latitude": "-6.324710",
+    "longitude": "106.641200",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "774",
+    "stasiun_name": "Daru",
+    "city": "KAB. TANGERANG",
+    "province": "BANTEN",
+    "latitude": "-6.337890",
+    "longitude": "106.492400",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "775",
+    "stasiun_name": "Tigaraksa",
+    "city": "KAB. TANGERANG",
+    "province": "BANTEN",
+    "latitude": "-6.328310",
+    "longitude": "106.434400",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "776",
+    "stasiun_name": "CATANG",
+    "city": "KAB. SERANG",
+    "province": "BANTEN",
+    "latitude": "-6.265690",
+    "longitude": "106.268000",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "777",
+    "stasiun_name": "CIKEUSAL",
+    "city": "KAB. SERANG",
+    "province": "BANTEN",
+    "latitude": "-6.216980",
+    "longitude": "106.244600",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "778",
+    "stasiun_name": "JAMBU BARU",
+    "city": "KAB. SERANG",
+    "province": "BANTEN",
+    "latitude": "-6.302920",
+    "longitude": "106.260600",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "779",
+    "stasiun_name": "TONJONG BARU",
+    "city": "KAB. SERANG",
+    "province": "BANTEN",
+    "latitude": "-6.031310",
+    "longitude": "106.121400",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "781",
+    "stasiun_name": "Batuceper",
+    "city": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "latitude": "-6.172180",
+    "longitude": "106.665000",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "782",
+    "stasiun_name": "Poris",
+    "city": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "latitude": "-6.169680",
+    "longitude": "106.681400",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "783",
+    "stasiun_name": "Tangerang",
+    "city": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "latitude": "-6.176880",
+    "longitude": "106.632600",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "784",
+    "stasiun_name": "CIGADING",
+    "city": "KOTA CILEGON",
+    "province": "BANTEN",
+    "latitude": "-6.021970",
+    "longitude": "105.963600",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "785",
+    "stasiun_name": "CILEGON",
+    "city": "KOTA CILEGON",
+    "province": "BANTEN",
+    "latitude": "-6.019590",
+    "longitude": "106.053200",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "786",
+    "stasiun_name": "KRENCENG",
+    "city": "KOTA CILEGON",
+    "province": "BANTEN",
+    "latitude": "-6.009770",
+    "longitude": "106.023000",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "787",
+    "stasiun_name": "MERAK",
+    "city": "KOTA CILEGON",
+    "province": "BANTEN",
+    "latitude": "-5.930300",
+    "longitude": "105.997200",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "788",
+    "stasiun_name": "KARANGANTU",
+    "city": "KOTA SERANG",
+    "province": "BANTEN",
+    "latitude": "-6.039000",
+    "longitude": "106.162000",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "789",
+    "stasiun_name": "SERANG",
+    "city": "KOTA SERANG",
+    "province": "BANTEN",
+    "latitude": "-6.112370",
+    "longitude": "106.158600",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "790",
+    "stasiun_name": "WALANTAKA",
+    "city": "KOTA SERANG",
+    "province": "BANTEN",
+    "latitude": "-6.155400",
+    "longitude": "106.218800",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "791",
+    "stasiun_name": "PONDOK RANJI",
+    "city": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "latitude": "-6.276670",
+    "longitude": "106.744800",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "792",
+    "stasiun_name": "SERPONG",
+    "city": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "latitude": "-6.320190",
+    "longitude": "106.665600",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "793",
+    "stasiun_name": "SUDIMARA",
+    "city": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "latitude": "-6.296690",
+    "longitude": "106.712800",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "794",
+    "stasiun_name": "Jurang Mangu",
+    "city": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "latitude": "-6.288510",
+    "longitude": "106.729200",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "795",
+    "stasiun_name": "Rawa Buntu",
+    "city": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "latitude": "-6.314880",
+    "longitude": "106.676200",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "229",
+    "stasiun_name": "Cireungas",
+    "city": "KAB. SUKABUMI",
+    "province": "JAWA BARAT",
+    "latitude": "-6.958530",
+    "longitude": "107.037210",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "234",
+    "stasiun_name": "CIREUNGAS",
+    "city": "KAB. SUKABUMI",
+    "province": "JAWA BARAT",
+    "latitude": "-6.958500",
+    "longitude": "107.036800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "236",
+    "stasiun_name": "GANDASOLI",
+    "city": "KAB. SUKABUMI",
+    "province": "JAWA BARAT",
+    "latitude": "-6.941410",
+    "longitude": "106.992200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "242",
+    "stasiun_name": "CIANJUR",
+    "city": "KAB. CIANJUR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.824770",
+    "longitude": "107.142800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "243",
+    "stasiun_name": "CIBEBER",
+    "city": "KAB. CIANJUR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.937500",
+    "longitude": "107.121200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "244",
+    "stasiun_name": "CIPEUYEUM",
+    "city": "KAB. CIANJUR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.818480",
+    "longitude": "107.298200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "245",
+    "stasiun_name": "CIRANJANG",
+    "city": "KAB. CIANJUR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.814090",
+    "longitude": "107.251200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "246",
+    "stasiun_name": "LAMPEGAN",
+    "city": "KAB. CIANJUR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.949890",
+    "longitude": "107.061600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "247",
+    "stasiun_name": "CICALENGKA",
+    "city": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.981570",
+    "longitude": "107.832800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "248",
+    "stasiun_name": "HAURPUGUR",
+    "city": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.980710",
+    "longitude": "107.799600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "249",
+    "stasiun_name": "NAGREG",
+    "city": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "latitude": "-7.018190",
+    "longitude": "107.886200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "250",
+    "stasiun_name": "RANCAEKEK",
+    "city": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.964780",
+    "longitude": "107.756000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "252",
+    "stasiun_name": "Lebak Jero",
+    "city": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "latitude": "-7.053590",
+    "longitude": "107.894000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "255",
+    "stasiun_name": "Bumi Waluya",
+    "city": "KAB. GARUT",
+    "province": "JAWA BARAT",
+    "latitude": "-7.058590",
+    "longitude": "108.070600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "258",
+    "stasiun_name": "Warung Bandrek",
+    "city": "KAB. GARUT",
+    "province": "JAWA BARAT",
+    "latitude": "-7.064700",
+    "longitude": "108.007000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "259",
+    "stasiun_name": "CIBATU",
+    "city": "KAB. GARUT",
+    "province": "JAWA BARAT",
+    "latitude": "-7.100100",
+    "longitude": "107.979600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "260",
+    "stasiun_name": "CIPEUNDEUY",
+    "city": "KAB. GARUT",
+    "province": "JAWA BARAT",
+    "latitude": "-7.093570",
+    "longitude": "108.100600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "261",
+    "stasiun_name": "GARUT",
+    "city": "KAB. GARUT",
+    "province": "JAWA BARAT",
+    "latitude": "-7.205380",
+    "longitude": "107.884800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "262",
+    "stasiun_name": "KARANG SARI",
+    "city": "KAB. GARUT",
+    "province": "JAWA BARAT",
+    "latitude": "-7.098270",
+    "longitude": "107.931200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "263",
+    "stasiun_name": "LELES",
+    "city": "KAB. GARUT",
+    "province": "JAWA BARAT",
+    "latitude": "-7.084290",
+    "longitude": "107.899800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "264",
+    "stasiun_name": "LEUWIGOONG",
+    "city": "KAB. GARUT",
+    "province": "JAWA BARAT",
+    "latitude": "-7.103270",
+    "longitude": "107.958200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "265",
+    "stasiun_name": "PASIRJENGKOL",
+    "city": "KAB. GARUT",
+    "province": "JAWA BARAT",
+    "latitude": "-7.128640",
+    "longitude": "107.992290",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "266",
+    "stasiun_name": "WANARAJA",
+    "city": "KAB. GARUT",
+    "province": "JAWA BARAT",
+    "latitude": "-7.164640",
+    "longitude": "107.976910",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "267",
+    "stasiun_name": "Cirahayu",
+    "city": "KAB. TASIKMALAYA",
+    "province": "JAWA BARAT",
+    "latitude": "-7.134220",
+    "longitude": "108.118400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "268",
+    "stasiun_name": "Manonjaya",
+    "city": "KAB. TASIKMALAYA",
+    "province": "JAWA BARAT",
+    "latitude": "-7.353210",
+    "longitude": "108.302600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "270",
+    "stasiun_name": "Rajapolah",
+    "city": "KAB. TASIKMALAYA",
+    "province": "JAWA BARAT",
+    "latitude": "-7.219480",
+    "longitude": "108.191200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "271",
+    "stasiun_name": "CIAWI",
+    "city": "KAB. TASIKMALAYA",
+    "province": "JAWA BARAT",
+    "latitude": "-7.157410",
+    "longitude": "108.145800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "272",
+    "stasiun_name": "Bojong",
+    "city": "KAB. CIAMIS",
+    "province": "JAWA BARAT",
+    "latitude": "-7.347290",
+    "longitude": "108.429400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "273",
+    "stasiun_name": "CIAMIS",
+    "city": "KAB. CIAMIS",
+    "province": "JAWA BARAT",
+    "latitude": "-7.329410",
+    "longitude": "108.355800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "303",
+    "stasiun_name": "CIBUNGUR",
+    "city": "KAB. PURWAKARTA",
+    "province": "JAWA BARAT",
+    "latitude": "-6.467900",
+    "longitude": "107.479600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "304",
+    "stasiun_name": "CIGANEA",
+    "city": "KAB. PURWAKARTA",
+    "province": "JAWA BARAT",
+    "latitude": "-6.573490",
+    "longitude": "107.430800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "305",
+    "stasiun_name": "PLERED",
+    "city": "KAB. PURWAKARTA",
+    "province": "JAWA BARAT",
+    "latitude": "-6.640380",
+    "longitude": "107.391400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "306",
+    "stasiun_name": "PURWAKARTA",
+    "city": "KAB. PURWAKARTA",
+    "province": "JAWA BARAT",
+    "latitude": "-6.552670",
+    "longitude": "107.446400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "307",
+    "stasiun_name": "SUKATANI",
+    "city": "KAB. PURWAKARTA",
+    "province": "JAWA BARAT",
+    "latitude": "-6.610900",
+    "longitude": "107.408600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "322",
+    "stasiun_name": "Tagog Apu",
+    "city": "KAB. BANDUNG BARAT",
+    "province": "JAWA BARAT",
+    "latitude": "-6.810360",
+    "longitude": "107.463000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "323",
+    "stasiun_name": "CIKADONGDONG",
+    "city": "KAB. BANDUNG BARAT",
+    "province": "JAWA BARAT",
+    "latitude": "-6.715210",
+    "longitude": "107.390400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "324",
+    "stasiun_name": "CILAME",
+    "city": "KAB. BANDUNG BARAT",
+    "province": "JAWA BARAT",
+    "latitude": "-6.803280",
+    "longitude": "107.463800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "325",
+    "stasiun_name": "CIPATAT",
+    "city": "KAB. BANDUNG BARAT",
+    "province": "JAWA BARAT",
+    "latitude": "-6.822080",
+    "longitude": "107.385800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "326",
+    "stasiun_name": "GADOBANGKONG",
+    "city": "KAB. BANDUNG BARAT",
+    "province": "JAWA BARAT",
+    "latitude": "-6.864870",
+    "longitude": "107.515200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "327",
+    "stasiun_name": "MASWATI",
+    "city": "KAB. BANDUNG BARAT",
+    "province": "JAWA BARAT",
+    "latitude": "-6.760860",
+    "longitude": "107.409000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "328",
+    "stasiun_name": "PADALARANG",
+    "city": "KAB. BANDUNG BARAT",
+    "province": "JAWA BARAT",
+    "latitude": "-6.842770",
+    "longitude": "107.497600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "329",
+    "stasiun_name": "RENDEH",
+    "city": "KAB. BANDUNG BARAT",
+    "province": "JAWA BARAT",
+    "latitude": "-6.735900",
+    "longitude": "107.398000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "330",
+    "stasiun_name": "SASAKSAAT",
+    "city": "KAB. BANDUNG BARAT",
+    "province": "JAWA BARAT",
+    "latitude": "-6.779170",
+    "longitude": "107.431600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "339",
+    "stasiun_name": "Andir",
+    "city": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.907900",
+    "longitude": "107.579400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "340",
+    "stasiun_name": "BANDUNG",
+    "city": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.913880",
+    "longitude": "107.602600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "341",
+    "stasiun_name": "CIKUDAPATEUH",
+    "city": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.918700",
+    "longitude": "107.626200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "342",
+    "stasiun_name": "CIMEKAR",
+    "city": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.949890",
+    "longitude": "107.715000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "343",
+    "stasiun_name": "CIMINDI",
+    "city": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.896000",
+    "longitude": "107.561200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "344",
+    "stasiun_name": "CIROYOM",
+    "city": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.914180",
+    "longitude": "107.590400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "345",
+    "stasiun_name": "GEDEBAGE",
+    "city": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.940920",
+    "longitude": "107.690000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "346",
+    "stasiun_name": "KIARA CONDONG",
+    "city": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.925110",
+    "longitude": "107.646400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "357",
+    "stasiun_name": "CIMAHI",
+    "city": "KOTA CIMAHI",
+    "province": "JAWA BARAT",
+    "latitude": "-6.885860",
+    "longitude": "107.536000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "358",
+    "stasiun_name": "Awipari",
+    "city": "KOTA TASIKMALAYA",
+    "province": "JAWA BARAT",
+    "latitude": "-7.353700",
+    "longitude": "108.274400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "359",
+    "stasiun_name": "Indihiang",
+    "city": "KOTA TASIKMALAYA",
+    "province": "JAWA BARAT",
+    "latitude": "-7.287110",
+    "longitude": "108.201200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "360",
+    "stasiun_name": "TASIKMALAYA",
+    "city": "KOTA TASIKMALAYA",
+    "province": "JAWA BARAT",
+    "latitude": "-7.322570",
+    "longitude": "108.224200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "362",
+    "stasiun_name": "BANJAR",
+    "city": "KOTA BANJAR",
+    "province": "JAWA BARAT",
+    "latitude": "-7.376100",
+    "longitude": "108.542400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "363",
+    "stasiun_name": "Karangpucung",
+    "city": "KOTA BANJAR",
+    "province": "JAWA BARAT",
+    "latitude": "-7.353520",
+    "longitude": "108.494000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "274",
+    "stasiun_name": "ARJAWINANGUN",
+    "city": "KAB. CIREBON",
+    "province": "JAWA BARAT",
+    "latitude": "-6.644590",
+    "longitude": "108.414600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "275",
+    "stasiun_name": "BABAKAN",
+    "city": "KAB. CIREBON",
+    "province": "JAWA BARAT",
+    "latitude": "-6.860600",
+    "longitude": "108.720000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "276",
+    "stasiun_name": "CILEDUG",
+    "city": "KAB. CIREBON",
+    "province": "JAWA BARAT",
+    "latitude": "-6.902890",
+    "longitude": "108.744000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "277",
+    "stasiun_name": "LOSARI",
+    "city": "KAB. CIREBON",
+    "province": "JAWA BARAT",
+    "latitude": "-6.846070",
+    "longitude": "108.801800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "278",
+    "stasiun_name": "Bangoduwa",
+    "city": "KAB. CIREBON",
+    "province": "JAWA BARAT",
+    "latitude": "-6.662960",
+    "longitude": "108.460000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "279",
+    "stasiun_name": "Cangkring",
+    "city": "KAB. CIREBON",
+    "province": "JAWA BARAT",
+    "latitude": "-6.679500",
+    "longitude": "108.500800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "281",
+    "stasiun_name": "Karang Suwung",
+    "city": "KAB. CIREBON",
+    "province": "JAWA BARAT",
+    "latitude": "-6.857790",
+    "longitude": "108.647800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "282",
+    "stasiun_name": "Luwung",
+    "city": "KAB. CIREBON",
+    "province": "JAWA BARAT",
+    "latitude": "-6.777590",
+    "longitude": "108.593200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "283",
+    "stasiun_name": "Sindang Laut",
+    "city": "KAB. CIREBON",
+    "province": "JAWA BARAT",
+    "latitude": "-6.832760",
+    "longitude": "108.626000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "284",
+    "stasiun_name": "Waruduwur",
+    "city": "KAB. CIREBON",
+    "province": "JAWA BARAT",
+    "latitude": "-6.783690",
+    "longitude": "108.622400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "287",
+    "stasiun_name": "Cilegeh",
+    "city": "KAB. INDRAMAYU",
+    "province": "JAWA BARAT",
+    "latitude": "-6.463990",
+    "longitude": "108.035400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "288",
+    "stasiun_name": "Kadokangabus",
+    "city": "KAB. INDRAMAYU",
+    "province": "JAWA BARAT",
+    "latitude": "-6.467710",
+    "longitude": "108.107000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "291",
+    "stasiun_name": "Kertasemaya",
+    "city": "KAB. INDRAMAYU",
+    "province": "JAWA BARAT",
+    "latitude": "-6.528200",
+    "longitude": "108.353400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "292",
+    "stasiun_name": "Telagasari",
+    "city": "KAB. INDRAMAYU",
+    "province": "JAWA BARAT",
+    "latitude": "-6.464600",
+    "longitude": "108.235000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "293",
+    "stasiun_name": "HAURGEULIS",
+    "city": "KAB. INDRAMAYU",
+    "province": "JAWA BARAT",
+    "latitude": "-6.458620",
+    "longitude": "107.941000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "294",
+    "stasiun_name": "JATIBARANG",
+    "city": "KAB. INDRAMAYU",
+    "province": "JAWA BARAT",
+    "latitude": "-6.472900",
+    "longitude": "108.306000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "295",
+    "stasiun_name": "TERISI",
+    "city": "KAB. INDRAMAYU",
+    "province": "JAWA BARAT",
+    "latitude": "-6.470090",
+    "longitude": "108.160400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "296",
+    "stasiun_name": "PAGADEN BARU",
+    "city": "KAB. SUBANG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.453800",
+    "longitude": "107.817200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "297",
+    "stasiun_name": "Cikaum",
+    "city": "KAB. SUBANG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.435490",
+    "longitude": "107.739600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "298",
+    "stasiun_name": "Cipunegara",
+    "city": "KAB. SUBANG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.455200",
+    "longitude": "107.882400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "299",
+    "stasiun_name": "Pabuaran",
+    "city": "KAB. SUBANG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.409180",
+    "longitude": "107.584000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "300",
+    "stasiun_name": "Pasirbungur",
+    "city": "KAB. SUBANG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.426390",
+    "longitude": "107.688600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "301",
+    "stasiun_name": "Pringkasap",
+    "city": "KAB. SUBANG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.418090",
+    "longitude": "107.634400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "302",
+    "stasiun_name": "Tanjungrasa",
+    "city": "KAB. SUBANG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.408390",
+    "longitude": "107.540600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "348",
+    "stasiun_name": "CIREBON",
+    "city": "KOTA CIREBON",
+    "province": "JAWA BARAT",
+    "latitude": "-6.705510",
+    "longitude": "108.555400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "349",
+    "stasiun_name": "CIREBON PRUJAKAN",
+    "city": "KOTA CIREBON",
+    "province": "JAWA BARAT",
+    "latitude": "-6.719180",
+    "longitude": "108.558800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "513",
+    "stasiun_name": "Larangan",
+    "city": "KAB. BREBES",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.990600",
+    "longitude": "108.948800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "516",
+    "stasiun_name": "Songgom",
+    "city": "KAB. BREBES",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.024480",
+    "longitude": "108.988800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "517",
+    "stasiun_name": "BREBES",
+    "city": "KAB. BREBES",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.874270",
+    "longitude": "109.043400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "519",
+    "stasiun_name": "KETANGGUNGAN",
+    "city": "KAB. BREBES",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.938290",
+    "longitude": "108.884400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "520",
+    "stasiun_name": "TANJUNG",
+    "city": "KAB. BREBES",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.876710",
+    "longitude": "108.861000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "416",
+    "stasiun_name": "TELAWA",
+    "city": "KAB. BOYOLALI",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.185670",
+    "longitude": "110.752000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "439",
+    "stasiun_name": "Goprak",
+    "city": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.272890",
+    "longitude": "110.897200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "440",
+    "stasiun_name": "Padas",
+    "city": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.179200",
+    "longitude": "110.672000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "441",
+    "stasiun_name": "Panunggalan",
+    "city": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.152590",
+    "longitude": "111.060800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "444",
+    "stasiun_name": "Sulur",
+    "city": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.174070",
+    "longitude": "111.222800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "445",
+    "stasiun_name": "Tanggung",
+    "city": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.091490",
+    "longitude": "110.603200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "446",
+    "stasiun_name": "Tegowanu",
+    "city": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.052980",
+    "longitude": "110.602400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "448",
+    "stasiun_name": "GAMBRINGAN",
+    "city": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.143800",
+    "longitude": "110.915000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "449",
+    "stasiun_name": "GUBUG",
+    "city": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.060970",
+    "longitude": "110.669600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "450",
+    "stasiun_name": "GUNDIH",
+    "city": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.218690",
+    "longitude": "110.900000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "451",
+    "stasiun_name": "JAMBON",
+    "city": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.150270",
+    "longitude": "111.010200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "452",
+    "stasiun_name": "KARANGJATI",
+    "city": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.101380",
+    "longitude": "110.779200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "453",
+    "stasiun_name": "KARANGSONO",
+    "city": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.196290",
+    "longitude": "110.825600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "454",
+    "stasiun_name": "KEDUNG JATI",
+    "city": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.163510",
+    "longitude": "110.635600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "455",
+    "stasiun_name": "KRADENAN",
+    "city": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.149900",
+    "longitude": "111.145000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "456",
+    "stasiun_name": "NGROMBO",
+    "city": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.145260",
+    "longitude": "110.900400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "457",
+    "stasiun_name": "SEDADI",
+    "city": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.140560",
+    "longitude": "110.848400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "459",
+    "stasiun_name": "Kapuan",
+    "city": "KAB. BLORA",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.188600",
+    "longitude": "111.555200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "462",
+    "stasiun_name": "CEPU",
+    "city": "KAB. BLORA",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.154170",
+    "longitude": "111.591200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "463",
+    "stasiun_name": "DOPLANG",
+    "city": "KAB. BLORA",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.182800",
+    "longitude": "111.288000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "464",
+    "stasiun_name": "RANDU BLATUNG",
+    "city": "KAB. BLORA",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.192200",
+    "longitude": "111.398200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "465",
+    "stasiun_name": "WADU",
+    "city": "KAB. BLORA",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.196410",
+    "longitude": "111.500600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "483",
+    "stasiun_name": "BRUMBUNG",
+    "city": "KAB. DEMAK",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.025570",
+    "longitude": "110.522200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "484",
+    "stasiun_name": "AMBARAWA",
+    "city": "KAB. SEMARANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.265560",
+    "longitude": "110.401400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "491",
+    "stasiun_name": "KALIWUNGU",
+    "city": "KAB. KENDAL",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.959780",
+    "longitude": "110.254800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "492",
+    "stasiun_name": "WELERI",
+    "city": "KAB. KENDAL",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.970760",
+    "longitude": "110.069800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "494",
+    "stasiun_name": "Kalibodri",
+    "city": "KAB. KENDAL",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.973570",
+    "longitude": "110.148200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "496",
+    "stasiun_name": "Kerengseng",
+    "city": "KAB. BATANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.952390",
+    "longitude": "110.028000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "497",
+    "stasiun_name": "Kuripan",
+    "city": "KAB. BATANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.923770",
+    "longitude": "109.894400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "498",
+    "stasiun_name": "Plabuan",
+    "city": "KAB. BATANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.919800",
+    "longitude": "109.956000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "499",
+    "stasiun_name": "Ujungnegoro",
+    "city": "KAB. BATANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.908690",
+    "longitude": "109.789200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "500",
+    "stasiun_name": "BATANG",
+    "city": "KAB. BATANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.906490",
+    "longitude": "109.732600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "501",
+    "stasiun_name": "Sragi",
+    "city": "KAB. PEKALONGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.923770",
+    "longitude": "109.571000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "503",
+    "stasiun_name": "PEMALANG",
+    "city": "KAB. PEMALANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.887270",
+    "longitude": "109.388000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "504",
+    "stasiun_name": "Comal",
+    "city": "KAB. PEMALANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.909300",
+    "longitude": "109.536800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "505",
+    "stasiun_name": "Petarukan",
+    "city": "KAB. PEMALANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.897710",
+    "longitude": "109.449600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "508",
+    "stasiun_name": "Larangan (Tegal)",
+    "city": "KAB. TEGAL",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.868160",
+    "longitude": "109.185800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "509",
+    "stasiun_name": "Suradadi",
+    "city": "KAB. TEGAL",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.880490",
+    "longitude": "109.276000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "526",
+    "stasiun_name": "ALASTUA",
+    "city": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.984380",
+    "longitude": "110.475800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "527",
+    "stasiun_name": "SEMARANG PONCOL",
+    "city": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.972900",
+    "longitude": "110.414800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "528",
+    "stasiun_name": "SEMARANG TAWANG",
+    "city": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.964480",
+    "longitude": "110.428200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "530",
+    "stasiun_name": "Jerakah",
+    "city": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.980470",
+    "longitude": "110.362600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "533",
+    "stasiun_name": "Mangkang",
+    "city": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.971070",
+    "longitude": "110.303000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "534",
+    "stasiun_name": "PEKALONGAN",
+    "city": "KOTA PEKALONGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.889770",
+    "longitude": "109.664200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "535",
+    "stasiun_name": "TEGAL",
+    "city": "KOTA TEGAL",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.867370",
+    "longitude": "109.142800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "364",
+    "stasiun_name": "Langen",
+    "city": "KOTA BANJAR",
+    "province": "JAWA BARAT",
+    "latitude": "-7.360110",
+    "longitude": "108.637000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "365",
+    "stasiun_name": "Cipari",
+    "city": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.440190",
+    "longitude": "108.761200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "366",
+    "stasiun_name": "Karang Kandri",
+    "city": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.666200",
+    "longitude": "109.075600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "367",
+    "stasiun_name": "Kasugihan",
+    "city": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.618290",
+    "longitude": "109.121800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "368",
+    "stasiun_name": "Kawunganten",
+    "city": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.590880",
+    "longitude": "108.919400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "369",
+    "stasiun_name": "Lebeng",
+    "city": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.621280",
+    "longitude": "109.077400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "370",
+    "stasiun_name": "Meluwung",
+    "city": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.394410",
+    "longitude": "108.699600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "371",
+    "stasiun_name": "Randegan",
+    "city": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.570070",
+    "longitude": "109.220000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "372",
+    "stasiun_name": "Sikampuh",
+    "city": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.625790",
+    "longitude": "109.197600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "373",
+    "stasiun_name": "CILACAP",
+    "city": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.736080",
+    "longitude": "109.007000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "374",
+    "stasiun_name": "GANDRUNG MANGUN",
+    "city": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.528080",
+    "longitude": "108.859200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "375",
+    "stasiun_name": "GUMILIR",
+    "city": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.685000",
+    "longitude": "109.042600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "376",
+    "stasiun_name": "JERUKLEGI",
+    "city": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.623470",
+    "longitude": "109.019000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "377",
+    "stasiun_name": "KROYA",
+    "city": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.630000",
+    "longitude": "109.253800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "378",
+    "stasiun_name": "MAOS",
+    "city": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.619080",
+    "longitude": "109.139800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "379",
+    "stasiun_name": "SIDAREJA",
+    "city": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.486510",
+    "longitude": "108.807600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "380",
+    "stasiun_name": "Karang Gandul",
+    "city": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.388000",
+    "longitude": "109.185800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "381",
+    "stasiun_name": "Kebasen",
+    "city": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.530270",
+    "longitude": "109.203200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "383",
+    "stasiun_name": "Kemranjen",
+    "city": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.621580",
+    "longitude": "109.315400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "385",
+    "stasiun_name": "Notog",
+    "city": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.485780",
+    "longitude": "109.213400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "389",
+    "stasiun_name": "Tambak",
+    "city": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.613100",
+    "longitude": "109.408000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "390",
+    "stasiun_name": "PURWOKERTO",
+    "city": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.419070",
+    "longitude": "109.222000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "391",
+    "stasiun_name": "SUMPIUH",
+    "city": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.615170",
+    "longitude": "109.361400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "393",
+    "stasiun_name": "Karang Sari",
+    "city": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.382200",
+    "longitude": "109.120800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "396",
+    "stasiun_name": "GOMBONG",
+    "city": "KAB. KEBUMEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.610900",
+    "longitude": "109.506800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "397",
+    "stasiun_name": "KARANGANYAR",
+    "city": "KAB. KEBUMEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.633300",
+    "longitude": "109.573400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "398",
+    "stasiun_name": "KEBUMEN",
+    "city": "KAB. KEBUMEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.681880",
+    "longitude": "109.662200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "399",
+    "stasiun_name": "KUTOWINANGUN",
+    "city": "KAB. KEBUMEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.716800",
+    "longitude": "109.734200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "400",
+    "stasiun_name": "Ijo",
+    "city": "KAB. KEBUMEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.615480",
+    "longitude": "109.446200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "402",
+    "stasiun_name": "Sruweng",
+    "city": "KAB. KEBUMEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.654660",
+    "longitude": "109.602400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "403",
+    "stasiun_name": "Prembun",
+    "city": "KAB. KEBUMEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.724370",
+    "longitude": "109.798200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "404",
+    "stasiun_name": "WONOSARI",
+    "city": "KAB. KEBUMEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.697270",
+    "longitude": "109.701400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "405",
+    "stasiun_name": "Butuh",
+    "city": "KAB. PURWOREJO",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.724370",
+    "longitude": "109.858400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "407",
+    "stasiun_name": "KUTOARJO",
+    "city": "KAB. PURWOREJO",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.726200",
+    "longitude": "109.907400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "506",
+    "stasiun_name": "PRUPUK",
+    "city": "KAB. TEGAL",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.122010",
+    "longitude": "108.985200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "507",
+    "stasiun_name": "SLAWI",
+    "city": "KAB. TEGAL",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.981820",
+    "longitude": "109.136540",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "512",
+    "stasiun_name": "Kretek",
+    "city": "KAB. BREBES",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.285580",
+    "longitude": "109.029800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "514",
+    "stasiun_name": "Linggapura",
+    "city": "KAB. BREBES",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.185000",
+    "longitude": "109.012400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "515",
+    "stasiun_name": "Patuguran",
+    "city": "KAB. BREBES",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.328060",
+    "longitude": "109.057800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "518",
+    "stasiun_name": "BUMIAYU",
+    "city": "KAB. BREBES",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.237370",
+    "longitude": "109.009800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "382",
+    "stasiun_name": "Kebon Romo",
+    "city": "KAB. SRAGEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.419070",
+    "longitude": "111.064000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "406",
+    "stasiun_name": "JENAR",
+    "city": "KAB. PURWOREJO",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.802000",
+    "longitude": "110.000800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "408",
+    "stasiun_name": "WOJO",
+    "city": "KAB. PURWOREJO",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.861880",
+    "longitude": "110.040600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "415",
+    "stasiun_name": "ADI SOEMARMO",
+    "city": "KAB. BOYOLALI",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.513480",
+    "longitude": "110.747880",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "417",
+    "stasiun_name": "KLATEN",
+    "city": "KAB. KLATEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.712280",
+    "longitude": "110.603000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "418",
+    "stasiun_name": "Ceper",
+    "city": "KAB. KLATEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.669010",
+    "longitude": "110.675000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "419",
+    "stasiun_name": "Delanggu",
+    "city": "KAB. KLATEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.622070",
+    "longitude": "110.706600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "420",
+    "stasiun_name": "Srowot",
+    "city": "KAB. KLATEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.741270",
+    "longitude": "110.549400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "421",
+    "stasiun_name": "BRAMBANAN",
+    "city": "KAB. KLATEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.756470",
+    "longitude": "110.500400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "422",
+    "stasiun_name": "KLATEN",
+    "city": "KAB. KLATEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.712280",
+    "longitude": "110.603000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "423",
+    "stasiun_name": "PASAR NGUTER",
+    "city": "KAB. SUKOHARJO",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.741390",
+    "longitude": "110.878600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "424",
+    "stasiun_name": "SUKOHARJO",
+    "city": "KAB. SUKOHARJO",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.679810",
+    "longitude": "110.843200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "425",
+    "stasiun_name": "Gawok",
+    "city": "KAB. SUKOHARJO",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.589420",
+    "longitude": "110.744400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "428",
+    "stasiun_name": "WONOGIRI",
+    "city": "KAB. WONOGIRI",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.816100",
+    "longitude": "110.922000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "430",
+    "stasiun_name": "Kalioso",
+    "city": "KAB. KARANGANYAR",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.466190",
+    "longitude": "110.805200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "431",
+    "stasiun_name": "Kemiri",
+    "city": "KAB. KARANGANYAR",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.534000",
+    "longitude": "110.901400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "432",
+    "stasiun_name": "Palur",
+    "city": "KAB. KARANGANYAR",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.568180",
+    "longitude": "110.875600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "433",
+    "stasiun_name": "SALEM",
+    "city": "KAB. SRAGEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.395570",
+    "longitude": "110.827200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "434",
+    "stasiun_name": "SRAGEN",
+    "city": "KAB. SRAGEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.429380",
+    "longitude": "111.018000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "435",
+    "stasiun_name": "Kedungbanteng",
+    "city": "KAB. SRAGEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.405210",
+    "longitude": "111.117200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "436",
+    "stasiun_name": "Masaran",
+    "city": "KAB. SRAGEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.468080",
+    "longitude": "110.947800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "437",
+    "stasiun_name": "Sumber Lawang",
+    "city": "KAB. SRAGEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.327700",
+    "longitude": "110.863800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "522",
+    "stasiun_name": "KADIPIRO",
+    "city": "KOTA SURAKARTA",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.531030",
+    "longitude": "110.817960",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "523",
+    "stasiun_name": "PURWOSARI",
+    "city": "KOTA SURAKARTA",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.561770",
+    "longitude": "110.796400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "524",
+    "stasiun_name": "SOLO JEBRES",
+    "city": "KOTA SURAKARTA",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.562070",
+    "longitude": "110.839400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "525",
+    "stasiun_name": "SOLO BALAPAN",
+    "city": "KOTA SURAKARTA",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.557190",
+    "longitude": "110.821400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "536",
+    "stasiun_name": "KEDUNDANG",
+    "city": "KAB. KULON PROGO",
+    "province": "DI YOGYAKARTA",
+    "latitude": "-7.859190",
+    "longitude": "110.209400",
+    "jumlah_penduduk": "3900300"
+  },
+  {
+    "stasiun_id": "537",
+    "stasiun_name": "YOGYAKARTA INTERNATIONAL AIRPORT",
+    "city": "KAB. KULON PROGO",
+    "province": "DI YOGYAKARTA",
+    "latitude": "-7.897460",
+    "longitude": "110.061320",
+    "jumlah_penduduk": "3900300"
+  },
+  {
+    "stasiun_id": "538",
+    "stasiun_name": "Sentolo",
+    "city": "KAB. KULON PROGO",
+    "province": "DI YOGYAKARTA",
+    "latitude": "-7.833190",
+    "longitude": "110.220200",
+    "jumlah_penduduk": "3900300"
+  },
+  {
+    "stasiun_id": "540",
+    "stasiun_name": "WATES",
+    "city": "KAB. KULON PROGO",
+    "province": "DI YOGYAKARTA",
+    "latitude": "-7.859500",
+    "longitude": "110.158000",
+    "jumlah_penduduk": "3900300"
+  },
+  {
+    "stasiun_id": "543",
+    "stasiun_name": "Rewulu",
+    "city": "KAB. BANTUL",
+    "province": "DI YOGYAKARTA",
+    "latitude": "-7.795900",
+    "longitude": "110.284200",
+    "jumlah_penduduk": "3900300"
+  },
+  {
+    "stasiun_id": "546",
+    "stasiun_name": "Patukan",
+    "city": "KAB. SLEMAN",
+    "province": "DI YOGYAKARTA",
+    "latitude": "-7.790770",
+    "longitude": "110.325400",
+    "jumlah_penduduk": "3900300"
+  },
+  {
+    "stasiun_id": "547",
+    "stasiun_name": "MAGUWO",
+    "city": "KAB. SLEMAN",
+    "province": "DI YOGYAKARTA",
+    "latitude": "-7.784970",
+    "longitude": "110.437000",
+    "jumlah_penduduk": "3900300"
+  },
+  {
+    "stasiun_id": "548",
+    "stasiun_name": "LEMPUYANGAN",
+    "city": "KOTA YOGYAKARTA",
+    "province": "DI YOGYAKARTA",
+    "latitude": "-7.790100",
+    "longitude": "110.374800",
+    "jumlah_penduduk": "3900300"
+  },
+  {
+    "stasiun_id": "551",
+    "stasiun_name": "TUGU",
+    "city": "KOTA YOGYAKARTA",
+    "province": "DI YOGYAKARTA",
+    "latitude": "-7.789180",
+    "longitude": "110.363600",
+    "jumlah_penduduk": "3900300"
+  },
+  {
+    "stasiun_id": "558",
+    "stasiun_name": "NGUJANG",
+    "city": "KAB. TULUNGAGUNG",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.010500",
+    "longitude": "111.927200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "559",
+    "stasiun_name": "NGUNUT",
+    "city": "KAB. TULUNGAGUNG",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.102780",
+    "longitude": "112.012200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "560",
+    "stasiun_name": "REJO TANGAN",
+    "city": "KAB. TULUNGAGUNG",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.120970",
+    "longitude": "112.081200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "561",
+    "stasiun_name": "SUMBER GEMPOL",
+    "city": "KAB. TULUNGAGUNG",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.082400",
+    "longitude": "111.944600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "562",
+    "stasiun_name": "TULUNGAGUNG",
+    "city": "KAB. TULUNGAGUNG",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.062990",
+    "longitude": "111.904800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "658",
+    "stasiun_name": "CURAHMALANG",
+    "city": "KAB. JOMBANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.506900",
+    "longitude": "112.370400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "659",
+    "stasiun_name": "JOMBANG",
+    "city": "KAB. JOMBANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.557800",
+    "longitude": "112.233400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "660",
+    "stasiun_name": "PETERONGAN",
+    "city": "KAB. JOMBANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.541870",
+    "longitude": "112.279200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "661",
+    "stasiun_name": "SEMBUNG",
+    "city": "KAB. JOMBANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.582700",
+    "longitude": "112.167200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "662",
+    "stasiun_name": "SUMOBITO",
+    "city": "KAB. JOMBANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.519470",
+    "longitude": "112.339400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "668",
+    "stasiun_name": "BARON",
+    "city": "KAB. NGANJUK",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.602780",
+    "longitude": "112.039000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "669",
+    "stasiun_name": "KERTOSONO",
+    "city": "KAB. NGANJUK",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.591800",
+    "longitude": "112.100800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "670",
+    "stasiun_name": "NGANJUK",
+    "city": "KAB. NGANJUK",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.600100",
+    "longitude": "111.902800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "671",
+    "stasiun_name": "SUKOMORO",
+    "city": "KAB. NGANJUK",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.602600",
+    "longitude": "111.942600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "672",
+    "stasiun_name": "WILANGAN",
+    "city": "KAB. NGANJUK",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.561220",
+    "longitude": "111.803800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "673",
+    "stasiun_name": "BARAT",
+    "city": "KAB. MAGETAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.562190",
+    "longitude": "111.451200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "675",
+    "stasiun_name": "GENENG",
+    "city": "KAB. NGAWI",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.497860",
+    "longitude": "111.418800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "676",
+    "stasiun_name": "KEDUNG GALAR",
+    "city": "KAB. NGAWI",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.418270",
+    "longitude": "111.306800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "677",
+    "stasiun_name": "NGAWI",
+    "city": "KAB. NGAWI",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.442260",
+    "longitude": "111.386950",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "678",
+    "stasiun_name": "PARON",
+    "city": "KAB. NGAWI",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.442200",
+    "longitude": "111.386600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "679",
+    "stasiun_name": "WALIKUKUN",
+    "city": "KAB. NGAWI",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.398680",
+    "longitude": "111.224600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "714",
+    "stasiun_name": "KEDIRI",
+    "city": "KOTA KEDIRI",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.817200",
+    "longitude": "112.015600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "715",
+    "stasiun_name": "KRASS",
+    "city": "KOTA KEDIRI",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.948670",
+    "longitude": "111.960400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "716",
+    "stasiun_name": "MINGGIRAN",
+    "city": "KOTA KEDIRI",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.728090",
+    "longitude": "112.057400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "717",
+    "stasiun_name": "NGADILUWIH",
+    "city": "KOTA KEDIRI",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.898380",
+    "longitude": "111.988000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "718",
+    "stasiun_name": "PAPAR",
+    "city": "KOTA KEDIRI",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.697570",
+    "longitude": "112.079600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "719",
+    "stasiun_name": "PURWOASRI",
+    "city": "KOTA KEDIRI",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.647280",
+    "longitude": "112.100200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "720",
+    "stasiun_name": "SUSUHAN",
+    "city": "KOTA KEDIRI",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.771180",
+    "longitude": "112.026000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "722",
+    "stasiun_name": "BLITAR",
+    "city": "KOTA BLITAR",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.101380",
+    "longitude": "112.162800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "723",
+    "stasiun_name": "GARUM",
+    "city": "KOTA BLITAR",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.073490",
+    "longitude": "112.217000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "726",
+    "stasiun_name": "TALUN",
+    "city": "KOTA BLITAR",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.091490",
+    "longitude": "112.288600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "745",
+    "stasiun_name": "BABADAN",
+    "city": "KOTA MADIUN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.587100",
+    "longitude": "111.588600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "746",
+    "stasiun_name": "BAGOR",
+    "city": "KOTA MADIUN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.571590",
+    "longitude": "111.852800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "747",
+    "stasiun_name": "CARUBAN",
+    "city": "KOTA MADIUN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.550960",
+    "longitude": "111.654800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "748",
+    "stasiun_name": "MADIUN",
+    "city": "KOTA MADIUN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.618410",
+    "longitude": "111.525000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "749",
+    "stasiun_name": "SARADAN",
+    "city": "KOTA MADIUN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.547490",
+    "longitude": "111.732200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "636",
+    "stasiun_name": "BOHARAN",
+    "city": "KAB. SIDOARJO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.387880",
+    "longitude": "112.619600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "638",
+    "stasiun_name": "GEDANGAN",
+    "city": "KAB. SIDOARJO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.388980",
+    "longitude": "112.728600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "639",
+    "stasiun_name": "KEDINDING",
+    "city": "KAB. SIDOARJO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.437070",
+    "longitude": "112.552600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "640",
+    "stasiun_name": "KRIAN",
+    "city": "KAB. SIDOARJO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.410100",
+    "longitude": "112.586200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "642",
+    "stasiun_name": "PORONG",
+    "city": "KAB. SIDOARJO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.538390",
+    "longitude": "112.701800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "644",
+    "stasiun_name": "SEPANJANG",
+    "city": "KAB. SIDOARJO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.347170",
+    "longitude": "112.697800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "645",
+    "stasiun_name": "SIDOARJO",
+    "city": "KAB. SIDOARJO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.456970",
+    "longitude": "112.712600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "646",
+    "stasiun_name": "TANGGULANGIN",
+    "city": "KAB. SIDOARJO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.506770",
+    "longitude": "112.708200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "647",
+    "stasiun_name": "TARIK",
+    "city": "KAB. SIDOARJO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.459470",
+    "longitude": "112.518600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "648",
+    "stasiun_name": "TULANGAN",
+    "city": "KAB. SIDOARJO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.465700",
+    "longitude": "112.651000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "649",
+    "stasiun_name": "WARU",
+    "city": "KAB. SIDOARJO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.352480",
+    "longitude": "112.729400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "680",
+    "stasiun_name": "BOJONEGORO",
+    "city": "KAB. BOJONEGORO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.164370",
+    "longitude": "111.886800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "681",
+    "stasiun_name": "BOWERNO",
+    "city": "KAB. BOJONEGORO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.131160",
+    "longitude": "112.099800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "682",
+    "stasiun_name": "KALITIDU",
+    "city": "KAB. BOJONEGORO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.131710",
+    "longitude": "111.767400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "683",
+    "stasiun_name": "KAPAS",
+    "city": "KAB. BOJONEGORO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.199100",
+    "longitude": "111.933400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "684",
+    "stasiun_name": "SUMBEREJO",
+    "city": "KAB. BOJONEGORO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.177670",
+    "longitude": "112.001600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "685",
+    "stasiun_name": "TOBO",
+    "city": "KAB. BOJONEGORO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.172360",
+    "longitude": "111.655200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "686",
+    "stasiun_name": "Sroyo",
+    "city": "KAB. BOJONEGORO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.163700",
+    "longitude": "112.043800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "690",
+    "stasiun_name": "Tuban",
+    "city": "KAB. TUBAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-6.899960",
+    "longitude": "112.058200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "691",
+    "stasiun_name": "BABAT",
+    "city": "KAB. LAMONGAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.106080",
+    "longitude": "112.168600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "692",
+    "stasiun_name": "GEMBONG",
+    "city": "KAB. LAMONGAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.102290",
+    "longitude": "112.222400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "693",
+    "stasiun_name": "LAMONGAN",
+    "city": "KAB. LAMONGAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.112490",
+    "longitude": "112.420200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "694",
+    "stasiun_name": "PUCUK",
+    "city": "KAB. LAMONGAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.097470",
+    "longitude": "112.269800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "695",
+    "stasiun_name": "SUMLARAN",
+    "city": "KAB. LAMONGAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.093570",
+    "longitude": "112.322000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "698",
+    "stasiun_name": "Kruwul",
+    "city": "KAB. LAMONGAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.102970",
+    "longitude": "112.369800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "700",
+    "stasiun_name": "CERME",
+    "city": "KAB. GRESIK",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.224370",
+    "longitude": "112.571000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "701",
+    "stasiun_name": "DUDUK",
+    "city": "KAB. GRESIK",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.154600",
+    "longitude": "112.520600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "702",
+    "stasiun_name": "INDRO",
+    "city": "KAB. GRESIK",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.176980",
+    "longitude": "112.664430",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "704",
+    "stasiun_name": "Pandanan",
+    "city": "KAB. GRESIK",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.131160",
+    "longitude": "112.480200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "724",
+    "stasiun_name": "KESAMBEN",
+    "city": "KOTA BLITAR",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.149290",
+    "longitude": "112.363600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "725",
+    "stasiun_name": "POHGAJIH",
+    "city": "KOTA BLITAR",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.157290",
+    "longitude": "112.420600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "727",
+    "stasiun_name": "WLINGI",
+    "city": "KOTA BLITAR",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.088320",
+    "longitude": "112.320000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "728",
+    "stasiun_name": "BLIMBING",
+    "city": "KOTA MALANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.941100",
+    "longitude": "112.644600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "729",
+    "stasiun_name": "KEPANJEN",
+    "city": "KOTA MALANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.131900",
+    "longitude": "112.573600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "730",
+    "stasiun_name": "LAWANG",
+    "city": "KOTA MALANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.836790",
+    "longitude": "112.697800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "731",
+    "stasiun_name": "MALANG",
+    "city": "KOTA MALANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.977420",
+    "longitude": "112.637400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "732",
+    "stasiun_name": "MALANG KOTA LAMA",
+    "city": "KOTA MALANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.995120",
+    "longitude": "112.632400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "733",
+    "stasiun_name": "NGEBRUK",
+    "city": "KOTA MALANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.151920",
+    "longitude": "112.518000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "734",
+    "stasiun_name": "PAKISAJI",
+    "city": "KOTA MALANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.069270",
+    "longitude": "112.598600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "735",
+    "stasiun_name": "SINGOSARI",
+    "city": "KOTA MALANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.896970",
+    "longitude": "112.666400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "736",
+    "stasiun_name": "SUMBER PUCUNG",
+    "city": "KOTA MALANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.158390",
+    "longitude": "112.478400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "737",
+    "stasiun_name": "BANGIL",
+    "city": "KOTA PASURUAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.599000",
+    "longitude": "112.778200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "741",
+    "stasiun_name": "SENGON",
+    "city": "KOTA PASURUAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.755190",
+    "longitude": "112.724600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "742",
+    "stasiun_name": "SUKOREJO",
+    "city": "KOTA PASURUAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.719300",
+    "longitude": "112.723400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "743",
+    "stasiun_name": "WONOKERTO",
+    "city": "KOTA PASURUAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.661990",
+    "longitude": "112.755200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "744",
+    "stasiun_name": "MOJOKERTO",
+    "city": "KOTA MOJOKERTO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.472410",
+    "longitude": "112.434400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "750",
+    "stasiun_name": "BENOWO",
+    "city": "KOTA SURABAYA",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.234070",
+    "longitude": "112.615200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "751",
+    "stasiun_name": "BENTENG",
+    "city": "KOTA SURABAYA",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.221190",
+    "longitude": "112.744000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "752",
+    "stasiun_name": "JEMURSARI",
+    "city": "KOTA SURABAYA",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.329280",
+    "longitude": "112.731400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "753",
+    "stasiun_name": "KALIMAS",
+    "city": "KOTA SURABAYA",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.219910",
+    "longitude": "112.735000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "754",
+    "stasiun_name": "KANDANGAN",
+    "city": "KOTA SURABAYA",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.250790",
+    "longitude": "112.657200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "755",
+    "stasiun_name": "KERTOMENANGGAL",
+    "city": "KOTA SURABAYA",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.340580",
+    "longitude": "112.729400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "756",
+    "stasiun_name": "MARGOREJO",
+    "city": "KOTA SURABAYA",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.314700",
+    "longitude": "112.734400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "757",
+    "stasiun_name": "NGAGEL",
+    "city": "KOTA SURABAYA",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.287780",
+    "longitude": "112.748200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "758",
+    "stasiun_name": "SURABAYA GUBENG",
+    "city": "KOTA SURABAYA",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.265200",
+    "longitude": "112.752200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "759",
+    "stasiun_name": "SURABAYA GUBENGX",
+    "city": "KOTA SURABAYA",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.265200",
+    "longitude": "112.752200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "760",
+    "stasiun_name": "SURABAYA KOTA",
+    "city": "KOTA SURABAYA",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.242980",
+    "longitude": "112.742000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "761",
+    "stasiun_name": "SURABAYA PASAR TURI",
+    "city": "KOTA SURABAYA",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.248170",
+    "longitude": "112.731200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "762",
+    "stasiun_name": "TANDES",
+    "city": "KOTA SURABAYA",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.258970",
+    "longitude": "112.687000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "763",
+    "stasiun_name": "WONOKROMO",
+    "city": "KOTA SURABAYA",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.302060",
+    "longitude": "112.739400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "764",
+    "stasiun_name": "Sidotopo",
+    "city": "KOTA SURABAYA",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.235290",
+    "longitude": "112.757400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "170",
+    "stasiun_name": "CIKINI",
+    "city": "KOTA ADM. JAKARTA PUSAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.198490",
+    "longitude": "106.841200",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "171",
+    "stasiun_name": "GAMBIR",
+    "city": "KOTA ADM. JAKARTA PUSAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.176700",
+    "longitude": "106.830800",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "172",
+    "stasiun_name": "KEMAYORAN",
+    "city": "KOTA ADM. JAKARTA PUSAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.161870",
+    "longitude": "106.841400",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "173",
+    "stasiun_name": "KRAMAT",
+    "city": "KOTA ADM. JAKARTA PUSAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.193910",
+    "longitude": "106.856600",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "174",
+    "stasiun_name": "PALMERAH",
+    "city": "KOTA ADM. JAKARTA PUSAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.207580",
+    "longitude": "106.797400",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "575",
+    "stasiun_name": "JATIROTO",
+    "city": "KAB. LUMAJANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.123410",
+    "longitude": "113.364200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "576",
+    "stasiun_name": "KLAKAH",
+    "city": "KAB. LUMAJANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.993710",
+    "longitude": "113.248400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "577",
+    "stasiun_name": "RANUYOSO",
+    "city": "KAB. LUMAJANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.954470",
+    "longitude": "113.237000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "580",
+    "stasiun_name": "Randuangung",
+    "city": "KAB. LUMAJANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.071110",
+    "longitude": "113.305800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "581",
+    "stasiun_name": "ARJASA",
+    "city": "KAB. JEMBER",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.127870",
+    "longitude": "113.748400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "582",
+    "stasiun_name": "BANGSALSARI",
+    "city": "KAB. JEMBER",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.203000",
+    "longitude": "113.533400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "583",
+    "stasiun_name": "GARAHAN",
+    "city": "KAB. JEMBER",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.224910",
+    "longitude": "113.895800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "584",
+    "stasiun_name": "JEMBER",
+    "city": "KAB. JEMBER",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.165100",
+    "longitude": "113.703400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "585",
+    "stasiun_name": "KALISAT",
+    "city": "KAB. JEMBER",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.127010",
+    "longitude": "113.812400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "586",
+    "stasiun_name": "LEDOKOMBO",
+    "city": "KAB. JEMBER",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.140560",
+    "longitude": "113.875600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "587",
+    "stasiun_name": "RAMBIPUJI",
+    "city": "KAB. JEMBER",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.203370",
+    "longitude": "113.614400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "588",
+    "stasiun_name": "TANGGUL",
+    "city": "KAB. JEMBER",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.162780",
+    "longitude": "113.448200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "593",
+    "stasiun_name": "Kotok",
+    "city": "KAB. JEMBER",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.126100",
+    "longitude": "113.779000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "594",
+    "stasiun_name": "Mangli",
+    "city": "KAB. JEMBER",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.188600",
+    "longitude": "113.655200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "595",
+    "stasiun_name": "Mrawan",
+    "city": "KAB. JEMBER",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.272400",
+    "longitude": "113.926800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "597",
+    "stasiun_name": "Sempolan",
+    "city": "KAB. JEMBER",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.192570",
+    "longitude": "113.896200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "315",
+    "stasiun_name": "CIKARANG",
+    "city": "KAB. BEKASI",
+    "province": "JAWA BARAT",
+    "latitude": "-6.254880",
+    "longitude": "107.144600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "79",
+    "stasiun_name": "LUBUK BUAYA",
+    "city": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.833790",
+    "longitude": "100.327700",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "150",
+    "stasiun_name": "TARAHAN",
+    "city": "KOTA BANDAR LAMPUNG",
+    "province": "LAMPUNG",
+    "latitude": "-5.503220",
+    "longitude": "105.335870",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "651",
+    "stasiun_name": "Singaparna",
+    "city": "KAB. SIDOARJO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.352480",
+    "longitude": "108.112800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "578",
+    "stasiun_name": "Lumujang",
+    "city": "KAB. LUMAJANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.135380",
+    "longitude": "113.215200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "600",
+    "stasiun_name": "ARGOPURO",
+    "city": "KAB. BANYUWANGI",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.183590",
+    "longitude": "114.369400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "601",
+    "stasiun_name": "BANYUWANGI KOTA",
+    "city": "KAB. BANYUWANGI",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.214290",
+    "longitude": "114.378000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "602",
+    "stasiun_name": "BANYUWANGI BARU (KETAPANG)",
+    "city": "KAB. BANYUWANGI",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.141170",
+    "longitude": "114.397400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "603",
+    "stasiun_name": "GLENMORE",
+    "city": "KAB. BANYUWANGI",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.299500",
+    "longitude": "114.049400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "604",
+    "stasiun_name": "KALIBARU",
+    "city": "KAB. BANYUWANGI",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.288880",
+    "longitude": "113.984400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "605",
+    "stasiun_name": "KALISETAIL",
+    "city": "KAB. BANYUWANGI",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.302920",
+    "longitude": "114.140200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "606",
+    "stasiun_name": "KARANG ASEM (BANYUWANGI KOTA)",
+    "city": "KAB. BANYUWANGI",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.222900",
+    "longitude": "114.340800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "607",
+    "stasiun_name": "KETAPANG (BANYUWANGI BARU)",
+    "city": "KAB. BANYUWANGI",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.141190",
+    "longitude": "114.397170",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "608",
+    "stasiun_name": "ROGOJAMPI",
+    "city": "KAB. BANYUWANGI",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.304500",
+    "longitude": "114.292600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "609",
+    "stasiun_name": "SINGOJURUH",
+    "city": "KAB. BANYUWANGI",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.306580",
+    "longitude": "114.240800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "610",
+    "stasiun_name": "SUMBER WADUNG",
+    "city": "KAB. BANYUWANGI",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.301880",
+    "longitude": "114.105400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "611",
+    "stasiun_name": "TEMUGURUH",
+    "city": "KAB. BANYUWANGI",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.309570",
+    "longitude": "114.202400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "622",
+    "stasiun_name": "BAYEMAN",
+    "city": "KAB. PROBOLINGGO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.734680",
+    "longitude": "113.118800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "42",
+    "stasiun_name": "PAMINGKE",
+    "city": "KAB. LABUHANBATU UTARA",
+    "province": "SUMATERA UTARA",
+    "latitude": "2.377010",
+    "longitude": "99.760990",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "43",
+    "stasiun_name": "SITUNGIR",
+    "city": "KAB. LABUHANBATU UTARA",
+    "province": "SUMATERA UTARA",
+    "latitude": "2.494810",
+    "longitude": "99.674010",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "44",
+    "stasiun_name": "MEDAN",
+    "city": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.590820",
+    "longitude": "98.679630",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "45",
+    "stasiun_name": "PULO BRAYAN",
+    "city": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.631840",
+    "longitude": "98.670590",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "46",
+    "stasiun_name": "Belawan",
+    "city": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.778200",
+    "longitude": "98.681640",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "47",
+    "stasiun_name": "Labuan",
+    "city": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.735410",
+    "longitude": "98.677190",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "48",
+    "stasiun_name": "Tanjung Selamat",
+    "city": "KAB. LANGKAT",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.531430",
+    "longitude": "98.635990",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "49",
+    "stasiun_name": "SIANTAR",
+    "city": "KOTA PEMATANGSIANTAR",
+    "province": "SUMATERA UTARA",
+    "latitude": "2.959230",
+    "longitude": "99.062990",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "50",
+    "stasiun_name": "TANJUNG BALAI",
+    "city": "KOTA TANJUNG BALAI",
+    "province": "SUMATERA UTARA",
+    "latitude": "2.971010",
+    "longitude": "99.799990",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "51",
+    "stasiun_name": "BINJAI",
+    "city": "KOTA BINJAI",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.605410",
+    "longitude": "98.497620",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "52",
+    "stasiun_name": "LIDAH TANAH",
+    "city": "KAB. SERDANG BEDAGAI",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.562990",
+    "longitude": "99.014500",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "53",
+    "stasiun_name": "TEBING TINGGI",
+    "city": "KOTA TEBING TINGGI",
+    "province": "SUMATERA UTARA",
+    "latitude": "3.327030",
+    "longitude": "99.168210",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "58",
+    "stasiun_name": "Kota Baru",
+    "city": "KAB. TANAH DATAR",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.401490",
+    "longitude": "100.410000",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "61",
+    "stasiun_name": "DUKU",
+    "city": "KAB. PADANG PARIAMAN",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.786990",
+    "longitude": "100.316800",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "62",
+    "stasiun_name": "LUBUK ALUNG",
+    "city": "KAB. PADANG PARIAMAN",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.678100",
+    "longitude": "100.289200",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "63",
+    "stasiun_name": "KAYU TANAM",
+    "city": "KAB. PADANG PARIAMAN",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.548100",
+    "longitude": "100.331400",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "64",
+    "stasiun_name": "PASAR USANG",
+    "city": "KAB. PADANG PARIAMAN",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.736390",
+    "longitude": "100.310600",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "65",
+    "stasiun_name": "PAUH KAMBAR",
+    "city": "KAB. PADANG PARIAMAN",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.651370",
+    "longitude": "100.219600",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "66",
+    "stasiun_name": "SICINCIN",
+    "city": "KAB. PADANG PARIAMAN",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.566100",
+    "longitude": "100.278000",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "76",
+    "stasiun_name": "AIR TAWAR",
+    "city": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.900370",
+    "longitude": "100.350760",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "77",
+    "stasiun_name": "BUKITPUTUS",
+    "city": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.985740",
+    "longitude": "100.385400",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "78",
+    "stasiun_name": "INDARUNG",
+    "city": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.949940",
+    "longitude": "100.467400",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "80",
+    "stasiun_name": "PADANG",
+    "city": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.941770",
+    "longitude": "100.373800",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "81",
+    "stasiun_name": "PAUHLIMA",
+    "city": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.937850",
+    "longitude": "100.435000",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "83",
+    "stasiun_name": "TABING",
+    "city": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.866700",
+    "longitude": "100.342600",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "89",
+    "stasiun_name": "MUARA KALABAN",
+    "city": "KOTA SAWAHLUNTO",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.711980",
+    "longitude": "100.787800",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "90",
+    "stasiun_name": "SAWAH LUNTO",
+    "city": "KOTA SAWAHLUNTO",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.682980",
+    "longitude": "100.777200",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "96",
+    "stasiun_name": "NARAS",
+    "city": "KOTA PARIAMAN",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.570800",
+    "longitude": "100.097800",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "97",
+    "stasiun_name": "PARIAMAN",
+    "city": "KOTA PARIAMAN",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.626460",
+    "longitude": "100.116600",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "108",
+    "stasiun_name": "GLUMBANG",
+    "city": "KAB. MUARA ENIM",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.246090",
+    "longitude": "104.441400",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "109",
+    "stasiun_name": "KARANG ENDAH",
+    "city": "KAB. MUARA ENIM",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.303770",
+    "longitude": "104.396000",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "110",
+    "stasiun_name": "LEMBAK",
+    "city": "KAB. MUARA ENIM",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.342290",
+    "longitude": "104.341800",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "111",
+    "stasiun_name": "MUARAENIM",
+    "city": "KAB. MUARA ENIM",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.652770",
+    "longitude": "103.776400",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "112",
+    "stasiun_name": "MUARAGULA",
+    "city": "KAB. MUARA ENIM",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.585880",
+    "longitude": "103.775800",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "113",
+    "stasiun_name": "SERDANG",
+    "city": "KAB. MUARA ENIM",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.219910",
+    "longitude": "104.523200",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "114",
+    "stasiun_name": "UJANMAS",
+    "city": "KAB. MUARA ENIM",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.532170",
+    "longitude": "103.776400",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "115",
+    "stasiun_name": "TANJUNG ENIM BARU",
+    "city": "KAB. MUARA ENIM",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.706180",
+    "longitude": "103.799600",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "116",
+    "stasiun_name": "BELIMBING/BELIMBING PENDOPO",
+    "city": "KAB. MUARA ENIM",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.442990",
+    "longitude": "103.975800",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "117",
+    "stasiun_name": "GUNUNGMEGANG",
+    "city": "KAB. MUARA ENIM",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.453980",
+    "longitude": "103.866800",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "118",
+    "stasiun_name": "NIRU",
+    "city": "KAB. MUARA ENIM",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.453490",
+    "longitude": "104.064400",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "119",
+    "stasiun_name": "Penanggiran",
+    "city": "KAB. MUARA ENIM",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.481690",
+    "longitude": "103.813000",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "122",
+    "stasiun_name": "BANJARSARI",
+    "city": "KAB. LAHAT",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.676510",
+    "longitude": "103.698400",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "123",
+    "stasiun_name": "LAHAT",
+    "city": "KAB. LAHAT",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.789670",
+    "longitude": "103.537600",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "124",
+    "stasiun_name": "SUKACINTA",
+    "city": "KAB. LAHAT",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.778380",
+    "longitude": "103.625200",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "125",
+    "stasiun_name": "SUKARAJA",
+    "city": "KAB. LAHAT",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.663390",
+    "longitude": "103.272200",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "127",
+    "stasiun_name": "SAUNGNAGA",
+    "city": "KAB. LAHAT",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.626280",
+    "longitude": "103.189400",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "132",
+    "stasiun_name": "PAYAKABUNG",
+    "city": "KAB. OGAN ILIR",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.199100",
+    "longitude": "104.604400",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "133",
+    "stasiun_name": "SIMPANG",
+    "city": "KAB. OGAN ILIR",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.102970",
+    "longitude": "104.699400",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "134",
+    "stasiun_name": "INDRALAYA",
+    "city": "KAB. OGAN ILIR",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.208190",
+    "longitude": "104.642800",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "135",
+    "stasiun_name": "TEBINGTINGGI",
+    "city": "KAB. EMPAT LAWANG",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.584590",
+    "longitude": "103.081800",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "136",
+    "stasiun_name": "MUARASALING",
+    "city": "KAB. EMPAT LAWANG",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.432500",
+    "longitude": "103.041600",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "137",
+    "stasiun_name": "KERTAPATI",
+    "city": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.016780",
+    "longitude": "104.751600",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "138",
+    "stasiun_name": "LUBUK LINGGAU",
+    "city": "KOTA LUBUK LINGGAU",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.293270",
+    "longitude": "102.864200",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "139",
+    "stasiun_name": "PENIMUR",
+    "city": "KOTA PRABUMULIH",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.445980",
+    "longitude": "104.155800",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "140",
+    "stasiun_name": "PRABUMULIH",
+    "city": "KOTA PRABUMULIH",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.432980",
+    "longitude": "104.240800",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "141",
+    "stasiun_name": "Prabumulih Baru",
+    "city": "KOTA PRABUMULIH",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.442200",
+    "longitude": "104.224200",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "143",
+    "stasiun_name": "KOTAPADANG",
+    "city": "KAB. REJANG LEBONG",
+    "province": "BENGKULU",
+    "latitude": "-3.426090",
+    "longitude": "102.967000",
+    "jumlah_penduduk": "2064100"
+  },
+  {
+    "stasiun_id": "98",
+    "stasiun_name": "METUR",
+    "city": "KAB. OGAN KOMERING ULU",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.791020",
+    "longitude": "104.345200",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "99",
+    "stasiun_name": "Belatung",
+    "city": "KAB. OGAN KOMERING ULU",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-4.026610",
+    "longitude": "104.228800",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "100",
+    "stasiun_name": "Belimbing Air Kaka",
+    "city": "KAB. OGAN KOMERING ULU",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.991090",
+    "longitude": "104.292000",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "101",
+    "stasiun_name": "Lubuk Batang",
+    "city": "KAB. OGAN KOMERING ULU",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-4.057680",
+    "longitude": "104.217600",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "102",
+    "stasiun_name": "BATURAJA",
+    "city": "KAB. OGAN KOMERING ULU",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-4.127500",
+    "longitude": "104.162400",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "103",
+    "stasiun_name": "PENINJAWAN",
+    "city": "KAB. OGAN KOMERING ULU",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.879520",
+    "longitude": "104.376600",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "104",
+    "stasiun_name": "Lubuk Rukam",
+    "city": "KAB. OGAN KOMERING ULU",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.932800",
+    "longitude": "104.340600",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "105",
+    "stasiun_name": "Sepancar",
+    "city": "KAB. OGAN KOMERING ULU",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-4.184270",
+    "longitude": "104.210400",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "106",
+    "stasiun_name": "Tiga Gajah",
+    "city": "KAB. OGAN KOMERING ULU",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-4.110780",
+    "longitude": "104.168800",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "128",
+    "stasiun_name": "PAGAR GUNUNG",
+    "city": "KAB. MUARA ENIM",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.693820",
+    "longitude": "104.320340",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "129",
+    "stasiun_name": "GILAS",
+    "city": "KAB. OGAN KOMERING ULU TIMUR",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-4.264100",
+    "longitude": "104.285200",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "130",
+    "stasiun_name": "MARTAPURA",
+    "city": "KAB. OGAN KOMERING ULU TIMUR",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-4.316280",
+    "longitude": "104.347000",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "131",
+    "stasiun_name": "SUNGAI TUHA",
+    "city": "KAB. OGAN KOMERING ULU TIMUR",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-4.281460",
+    "longitude": "104.319710",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "142",
+    "stasiun_name": "TANJUNG RAMBANG",
+    "city": "KOTA PRABUMULIH",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.544010",
+    "longitude": "104.262000",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "144",
+    "stasiun_name": "GEDUNG RATU",
+    "city": "KAB. LAMPUNG SELATAN",
+    "province": "LAMPUNG",
+    "latitude": "-5.342800",
+    "longitude": "105.223340",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "145",
+    "stasiun_name": "REDJOSARI",
+    "city": "KAB. LAMPUNG SELATAN",
+    "province": "LAMPUNG",
+    "latitude": "-5.294070",
+    "longitude": "105.188000",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "146",
+    "stasiun_name": "BEKRI",
+    "city": "KAB. LAMPUNG TENGAH",
+    "province": "LAMPUNG",
+    "latitude": "-5.072810",
+    "longitude": "105.136000",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "147",
+    "stasiun_name": "HAJI PAMANGGILAN",
+    "city": "KAB. LAMPUNG TENGAH",
+    "province": "LAMPUNG",
+    "latitude": "-5.002010",
+    "longitude": "105.106800",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "148",
+    "stasiun_name": "RENGAS",
+    "city": "KAB. LAMPUNG TENGAH",
+    "province": "LAMPUNG",
+    "latitude": "-5.133000",
+    "longitude": "105.154200",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "149",
+    "stasiun_name": "SULUSUBAN",
+    "city": "KAB. LAMPUNG TENGAH",
+    "province": "LAMPUNG",
+    "latitude": "-4.946410",
+    "longitude": "105.083200",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "151",
+    "stasiun_name": "BLAMBANGAN PAGAR",
+    "city": "KAB. LAMPUNG UTARA",
+    "province": "LAMPUNG",
+    "latitude": "-4.895170",
+    "longitude": "105.039410",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "152",
+    "stasiun_name": "CANDIMAS",
+    "city": "KAB. LAMPUNG UTARA",
+    "province": "LAMPUNG",
+    "latitude": "-4.849900",
+    "longitude": "104.925690",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "153",
+    "stasiun_name": "CEMPAKA",
+    "city": "KAB. LAMPUNG UTARA",
+    "province": "LAMPUNG",
+    "latitude": "-4.793710",
+    "longitude": "104.819500",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "154",
+    "stasiun_name": "KALIBALANGAN",
+    "city": "KAB. LAMPUNG UTARA",
+    "province": "LAMPUNG",
+    "latitude": "-4.866460",
+    "longitude": "104.972740",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "155",
+    "stasiun_name": "KETAPANG",
+    "city": "KAB. LAMPUNG UTARA",
+    "province": "LAMPUNG",
+    "latitude": "-4.717490",
+    "longitude": "104.798510",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "156",
+    "stasiun_name": "KOTABUMI",
+    "city": "KAB. LAMPUNG UTARA",
+    "province": "LAMPUNG",
+    "latitude": "-4.821720",
+    "longitude": "104.881240",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "157",
+    "stasiun_name": "NEGARA RATU",
+    "city": "KAB. LAMPUNG UTARA",
+    "province": "LAMPUNG",
+    "latitude": "-4.656620",
+    "longitude": "104.737800",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "158",
+    "stasiun_name": "TEGINENENG",
+    "city": "KAB. LAMPUNG SELATAN",
+    "province": "LAMPUNG",
+    "latitude": "-5.202130",
+    "longitude": "105.172040",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "159",
+    "stasiun_name": "TULUNG BUYUT",
+    "city": "KAB. LAMPUNG UTARA",
+    "province": "LAMPUNG",
+    "latitude": "-4.625790",
+    "longitude": "104.664600",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "160",
+    "stasiun_name": "BLAMBANGAN UMPU",
+    "city": "KAB. WAY KANAN",
+    "province": "LAMPUNG",
+    "latitude": "-4.498170",
+    "longitude": "104.520200",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "161",
+    "stasiun_name": "GIHAM",
+    "city": "KAB. WAY KANAN",
+    "province": "LAMPUNG",
+    "latitude": "-4.420470",
+    "longitude": "104.494000",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "162",
+    "stasiun_name": "NEGRI AGUNG",
+    "city": "KAB. WAY KANAN",
+    "province": "LAMPUNG",
+    "latitude": "-4.572510",
+    "longitude": "104.605800",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "163",
+    "stasiun_name": "WAY PISANG",
+    "city": "KAB. WAY KANAN",
+    "province": "LAMPUNG",
+    "latitude": "-4.349790",
+    "longitude": "104.386800",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "164",
+    "stasiun_name": "WAY TUBA",
+    "city": "KAB. WAY KANAN",
+    "province": "LAMPUNG",
+    "latitude": "-4.379520",
+    "longitude": "104.411800",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "165",
+    "stasiun_name": "Tanjung Rajo",
+    "city": "KAB. WAY KANAN",
+    "province": "LAMPUNG",
+    "latitude": "-4.407590",
+    "longitude": "104.462600",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "166",
+    "stasiun_name": "PIDADA",
+    "city": "KOTA BANDAR LAMPUNG",
+    "province": "LAMPUNG",
+    "latitude": "-5.461490",
+    "longitude": "105.316200",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "167",
+    "stasiun_name": "LABUAN RATU",
+    "city": "KOTA BANDAR LAMPUNG",
+    "province": "LAMPUNG",
+    "latitude": "-5.372500",
+    "longitude": "105.252400",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "168",
+    "stasiun_name": "Panjang",
+    "city": "KOTA BANDAR LAMPUNG",
+    "province": "LAMPUNG",
+    "latitude": "-5.469600",
+    "longitude": "105.321000",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "169",
+    "stasiun_name": "TANJUNG KARANG",
+    "city": "KOTA BANDAR LAMPUNG",
+    "province": "LAMPUNG",
+    "latitude": "-5.408570",
+    "longitude": "105.260200",
+    "jumlah_penduduk": "9122700"
+  },
+  {
+    "stasiun_id": "486",
+    "stasiun_name": "Bedono",
+    "city": "KAB. SEMARANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.309200",
+    "longitude": "110.353000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "181",
+    "stasiun_name": "Mampang",
+    "city": "KOTA JAKARTA PUSAT",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.205870",
+    "longitude": "106.839400",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "215",
+    "stasiun_name": "CIPINANG",
+    "city": "KOTA ADM. JAKARTA TIMUR",
+    "province": "DKI JAKARTA",
+    "latitude": "-6.214170",
+    "longitude": "106.884400",
+    "jumlah_penduduk": "10874000"
+  },
+  {
+    "stasiun_id": "230",
+    "stasiun_name": "Cijambe",
+    "city": "KAB. SUKABUMI",
+    "province": "JAWA BARAT",
+    "latitude": "-6.817690",
+    "longitude": "106.760000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "231",
+    "stasiun_name": "Pondok Leungsir",
+    "city": "KAB. SUKABUMI",
+    "province": "JAWA BARAT",
+    "latitude": "-6.904970",
+    "longitude": "106.853200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "765",
+    "stasiun_name": "Labuan",
+    "city": "KAB. PANDEGLANG",
+    "province": "BANTEN",
+    "latitude": "-6.375180",
+    "longitude": "105.825000",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "766",
+    "stasiun_name": "Saketi",
+    "city": "KAB. PANDEGLANG",
+    "province": "BANTEN",
+    "latitude": "-6.404480",
+    "longitude": "105.991400",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "769",
+    "stasiun_name": "Bayah",
+    "city": "KAB. LEBAK",
+    "province": "BANTEN",
+    "latitude": "-6.963070",
+    "longitude": "106.261800",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "780",
+    "stasiun_name": "Anyerkidul",
+    "city": "KAB. SERANG",
+    "province": "BANTEN",
+    "latitude": "-6.070800",
+    "longitude": "105.887200",
+    "jumlah_penduduk": "12383000"
+  },
+  {
+    "stasiun_id": "239",
+    "stasiun_name": "Cilaku",
+    "city": "KAB. CIANJUR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.888000",
+    "longitude": "107.126600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "240",
+    "stasiun_name": "Maleber",
+    "city": "KAB. CIANJUR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.817870",
+    "longitude": "107.175600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "241",
+    "stasiun_name": "Selajambe",
+    "city": "KAB. CIANJUR",
+    "province": "JAWA BARAT",
+    "latitude": "-6.813600",
+    "longitude": "107.222600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "251",
+    "stasiun_name": "Dayeuhkolot",
+    "city": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.989200",
+    "longitude": "107.628000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "253",
+    "stasiun_name": "Majalaya",
+    "city": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "latitude": "-7.047610",
+    "longitude": "107.758400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "254",
+    "stasiun_name": "Soreang",
+    "city": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "latitude": "-7.026670",
+    "longitude": "107.520200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "256",
+    "stasiun_name": "Cikajang",
+    "city": "KAB. GARUT",
+    "province": "JAWA BARAT",
+    "latitude": "-7.356080",
+    "longitude": "107.804400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "257",
+    "stasiun_name": "Cisurupan",
+    "city": "KAB. GARUT",
+    "province": "JAWA BARAT",
+    "latitude": "-7.310790",
+    "longitude": "107.795400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "269",
+    "stasiun_name": "Pirusa",
+    "city": "KAB. TASIKMALAYA",
+    "province": "JAWA BARAT",
+    "latitude": "-7.288270",
+    "longitude": "108.136600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "286",
+    "stasiun_name": "Tanjungsari",
+    "city": "KAB. SUMEDANG",
+    "province": "JAWA BARAT",
+    "latitude": "-6.904600",
+    "longitude": "107.803000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "308",
+    "stasiun_name": "Cisomang",
+    "city": "KAB. PURWAKARTA",
+    "province": "JAWA BARAT",
+    "latitude": "-6.686280",
+    "longitude": "107.397800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "309",
+    "stasiun_name": "Sadang",
+    "city": "KAB. PURWAKARTA",
+    "province": "JAWA BARAT",
+    "latitude": "-6.510680",
+    "longitude": "107.456400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "321",
+    "stasiun_name": "Raja Mandala",
+    "city": "KAB. BANDUNG BARAT",
+    "province": "JAWA BARAT",
+    "latitude": "-6.824460",
+    "longitude": "107.346600",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "331",
+    "stasiun_name": "Cijulang",
+    "city": "KAB. PANGANDARAN",
+    "province": "JAWA BARAT",
+    "latitude": "-7.726990",
+    "longitude": "108.474400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "332",
+    "stasiun_name": "Kalipucang",
+    "city": "KAB. PANGANDARAN",
+    "province": "JAWA BARAT",
+    "latitude": "-7.635010",
+    "longitude": "108.751000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "333",
+    "stasiun_name": "Pangandaran",
+    "city": "KAB. PANGANDARAN",
+    "province": "JAWA BARAT",
+    "latitude": "-7.675960",
+    "longitude": "108.631000",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "347",
+    "stasiun_name": "Ciwidey",
+    "city": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "latitude": "-7.101500",
+    "longitude": "107.465400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "361",
+    "stasiun_name": "Singaparna",
+    "city": "KOTA TASIKMALAYA",
+    "province": "JAWA BARAT",
+    "latitude": "-7.352480",
+    "longitude": "108.112800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "280",
+    "stasiun_name": "Kaliwedi",
+    "city": "KAB. CIREBON",
+    "province": "JAWA BARAT",
+    "latitude": "-6.586670",
+    "longitude": "108.385200",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "285",
+    "stasiun_name": "Kadipaten",
+    "city": "KAB. MAJALENGKA",
+    "province": "JAWA BARAT",
+    "latitude": "-6.769470",
+    "longitude": "108.169800",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "289",
+    "stasiun_name": "Indramayu",
+    "city": "KAB. INDRAMAYU",
+    "province": "JAWA BARAT",
+    "latitude": "-6.349000",
+    "longitude": "108.321400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "290",
+    "stasiun_name": "Karangampel",
+    "city": "KAB. INDRAMAYU",
+    "province": "JAWA BARAT",
+    "latitude": "-6.460210",
+    "longitude": "108.457400",
+    "jumlah_penduduk": "49797000"
+  },
+  {
+    "stasiun_id": "510",
+    "stasiun_name": "Bulakamba",
+    "city": "KAB. BREBES",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.876100",
+    "longitude": "108.948600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "511",
+    "stasiun_name": "Ketanggungan Barat",
+    "city": "KAB. BREBES",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.929200",
+    "longitude": "108.856200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "438",
+    "stasiun_name": "Godong",
+    "city": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.022580",
+    "longitude": "110.772800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "442",
+    "stasiun_name": "Pengkol",
+    "city": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.084900",
+    "longitude": "111.119200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "443",
+    "stasiun_name": "Purwodadi",
+    "city": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.083370",
+    "longitude": "110.911600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "447",
+    "stasiun_name": "Wirosari",
+    "city": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.078800",
+    "longitude": "111.093800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "458",
+    "stasiun_name": "Blora",
+    "city": "KAB. BLORA",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.971190",
+    "longitude": "111.424200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "460",
+    "stasiun_name": "Kunduran",
+    "city": "KAB. BLORA",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.050600",
+    "longitude": "111.240800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "461",
+    "stasiun_name": "Ngawen",
+    "city": "KAB. BLORA",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.004880",
+    "longitude": "111.313600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "466",
+    "stasiun_name": "Delok",
+    "city": "KAB. REMBANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.703370",
+    "longitude": "111.245000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "467",
+    "stasiun_name": "Lasem",
+    "city": "KAB. REMBANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.695500",
+    "longitude": "111.437200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "468",
+    "stasiun_name": "Mantingan",
+    "city": "KAB. REMBANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.863770",
+    "longitude": "111.424400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "469",
+    "stasiun_name": "Pamotan",
+    "city": "KAB. REMBANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.763370",
+    "longitude": "111.491200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "470",
+    "stasiun_name": "Rembang",
+    "city": "KAB. REMBANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.709590",
+    "longitude": "111.342400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "471",
+    "stasiun_name": "Bulumanis",
+    "city": "KAB. PATI",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.611080",
+    "longitude": "111.064800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "472",
+    "stasiun_name": "Juwana",
+    "city": "KAB. PATI",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.720090",
+    "longitude": "111.144400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "473",
+    "stasiun_name": "Pati",
+    "city": "KAB. PATI",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.750180",
+    "longitude": "111.027600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "474",
+    "stasiun_name": "Tayu",
+    "city": "KAB. PATI",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.535400",
+    "longitude": "111.050600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "475",
+    "stasiun_name": "Kudus",
+    "city": "KAB. KUDUS",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.814700",
+    "longitude": "110.844800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "476",
+    "stasiun_name": "Mayong",
+    "city": "KAB. JEPARA",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.747500",
+    "longitude": "110.756200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "477",
+    "stasiun_name": "Pecangaan",
+    "city": "KAB. JEPARA",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.692200",
+    "longitude": "110.706800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "478",
+    "stasiun_name": "Welahan",
+    "city": "KAB. JEPARA",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.788090",
+    "longitude": "110.725000",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "479",
+    "stasiun_name": "Buyaran",
+    "city": "KAB. DEMAK",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.919490",
+    "longitude": "110.597600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "480",
+    "stasiun_name": "Demak",
+    "city": "KAB. DEMAK",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.901180",
+    "longitude": "110.634400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "481",
+    "stasiun_name": "Ngaloran",
+    "city": "KAB. DEMAK",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.870970",
+    "longitude": "110.729400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "482",
+    "stasiun_name": "Sayung",
+    "city": "KAB. DEMAK",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.941100",
+    "longitude": "110.510200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "485",
+    "stasiun_name": "TUNTANG",
+    "city": "KAB. SEMARANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.260680",
+    "longitude": "110.454200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "487",
+    "stasiun_name": "Beringin (Bringin)",
+    "city": "KAB. SEMARANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.253300",
+    "longitude": "110.523600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "488",
+    "stasiun_name": "Jambu",
+    "city": "KAB. SEMARANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.279790",
+    "longitude": "110.368800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "493",
+    "stasiun_name": "Besokor",
+    "city": "KAB. KENDAL",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.971680",
+    "longitude": "110.131600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "495",
+    "stasiun_name": "Kendal",
+    "city": "KAB. KENDAL",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.920900",
+    "longitude": "110.192400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "502",
+    "stasiun_name": "Wonopringgo",
+    "city": "KAB. PEKALONGAN",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.992490",
+    "longitude": "109.633200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "529",
+    "stasiun_name": "Genuk",
+    "city": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.952270",
+    "longitude": "110.478800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "531",
+    "stasiun_name": "Jurnatan",
+    "city": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.969480",
+    "longitude": "110.430400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "532",
+    "stasiun_name": "Kemijen",
+    "city": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-6.955870",
+    "longitude": "110.438800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "384",
+    "stasiun_name": "Legok",
+    "city": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.355470",
+    "longitude": "109.087200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "386",
+    "stasiun_name": "Patikraja",
+    "city": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.497990",
+    "longitude": "109.213400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "387",
+    "stasiun_name": "Purwokerto Timur",
+    "city": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.424380",
+    "longitude": "109.240200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "388",
+    "stasiun_name": "Sokaraja",
+    "city": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.460880",
+    "longitude": "109.290200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "392",
+    "stasiun_name": "Banjarsari",
+    "city": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.443660",
+    "longitude": "109.328800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "394",
+    "stasiun_name": "Banjarnegara",
+    "city": "KAB. BANJARNEGARA",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.398190",
+    "longitude": "109.654400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "395",
+    "stasiun_name": "Purwareja",
+    "city": "KAB. BANJARNEGARA",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.433900",
+    "longitude": "109.562600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "401",
+    "stasiun_name": "Soka",
+    "city": "KAB. KEBUMEN",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.679080",
+    "longitude": "109.639600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "409",
+    "stasiun_name": "Montelan",
+    "city": "KAB. PURWOREJO",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.753600",
+    "longitude": "109.949800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "410",
+    "stasiun_name": "Purworejo",
+    "city": "KAB. PURWOREJO",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.688600",
+    "longitude": "110.060400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "411",
+    "stasiun_name": "Selokromo",
+    "city": "KAB. WONOSOBO",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.423770",
+    "longitude": "109.860600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "412",
+    "stasiun_name": "Wonosobo",
+    "city": "KAB. WONOSOBO",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.359990",
+    "longitude": "109.898400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "413",
+    "stasiun_name": "Secang",
+    "city": "KAB. MAGELANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.392090",
+    "longitude": "110.241800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "414",
+    "stasiun_name": "Boyolali",
+    "city": "KAB. BOYOLALI",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.537480",
+    "longitude": "110.599800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "426",
+    "stasiun_name": "Kalisamin",
+    "city": "KAB. SUKOHARJO",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.626400",
+    "longitude": "110.842800",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "427",
+    "stasiun_name": "Kronelan",
+    "city": "KAB. SUKOHARJO",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.596010",
+    "longitude": "110.853400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "429",
+    "stasiun_name": "Baturetno",
+    "city": "KAb. WONOGIRI",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.978090",
+    "longitude": "110.930600",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "489",
+    "stasiun_name": "Parakan",
+    "city": "KAB. TEMANGGUNG",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.279910",
+    "longitude": "110.101200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "490",
+    "stasiun_name": "Temanggung",
+    "city": "KAB. TEMANGGUNG",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.312500",
+    "longitude": "110.183200",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "521",
+    "stasiun_name": "Magelang",
+    "city": "KOTA MAGELANG",
+    "province": "JAWA TENGAH",
+    "latitude": "-7.468510",
+    "longitude": "110.218400",
+    "jumlah_penduduk": "37781000"
+  },
+  {
+    "stasiun_id": "539",
+    "stasiun_name": "Sewugalur",
+    "city": "KAB. KULON PROGO",
+    "province": "DI YOGYAKARTA",
+    "latitude": "-7.942500",
+    "longitude": "110.205000",
+    "jumlah_penduduk": "3900300"
+  },
+  {
+    "stasiun_id": "541",
+    "stasiun_name": "Palbapang",
+    "city": "KAB. BANTUL",
+    "province": "DI YOGYAKARTA",
+    "latitude": "-7.906800",
+    "longitude": "110.319400",
+    "jumlah_penduduk": "3900300"
+  },
+  {
+    "stasiun_id": "542",
+    "stasiun_name": "Pundung",
+    "city": "KAB. BANTUL",
+    "province": "DI YOGYAKARTA",
+    "latitude": "-7.961670",
+    "longitude": "110.342600",
+    "jumlah_penduduk": "3900300"
+  },
+  {
+    "stasiun_id": "544",
+    "stasiun_name": "Sedayu",
+    "city": "KAB. BANTUL",
+    "province": "DI YOGYAKARTA",
+    "latitude": "-7.803410",
+    "longitude": "110.259000",
+    "jumlah_penduduk": "3900300"
+  },
+  {
+    "stasiun_id": "545",
+    "stasiun_name": "Srandakan",
+    "city": "KAB. BANTUL",
+    "province": "DI YOGYAKARTA",
+    "latitude": "-7.940370",
+    "longitude": "110.247200",
+    "jumlah_penduduk": "3900300"
+  },
+  {
+    "stasiun_id": "549",
+    "stasiun_name": "Ngabean",
+    "city": "KOTA YOGYAKARTA",
+    "province": "DI YOGYAKARTA",
+    "latitude": "-7.811770",
+    "longitude": "110.355000",
+    "jumlah_penduduk": "3900300"
+  },
+  {
+    "stasiun_id": "550",
+    "stasiun_name": "Pasar Gede",
+    "city": "KOTA YOGYAKARTA",
+    "province": "DI YOGYAKARTA",
+    "latitude": "-7.823000",
+    "longitude": "110.399600",
+    "jumlah_penduduk": "3900300"
+  },
+  {
+    "stasiun_id": "552",
+    "stasiun_name": "Badegan",
+    "city": "KAB. PONOROGO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.879210",
+    "longitude": "111.335400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "553",
+    "stasiun_name": "Balong",
+    "city": "KAB. PONOROGO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.959780",
+    "longitude": "111.440400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "554",
+    "stasiun_name": "Ponorogo",
+    "city": "KAB. PONOROGO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.867800",
+    "longitude": "111.470200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "555",
+    "stasiun_name": "Slahung",
+    "city": "KAB. PONOROGO",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.031310",
+    "longitude": "111.416200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "556",
+    "stasiun_name": "Sumoroto",
+    "city": "KAB. PONOROGO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.869870",
+    "longitude": "111.418800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "557",
+    "stasiun_name": "Trenggalek (Tugu)",
+    "city": "KAB. TRENGGALEK",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.053470",
+    "longitude": "111.708600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "563",
+    "stasiun_name": "Campurdarat",
+    "city": "KAB. TULUNGAGUNG",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.165890",
+    "longitude": "111.848800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "564",
+    "stasiun_name": "Gurah",
+    "city": "KAB. KEDIRI",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.807310",
+    "longitude": "112.089000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "565",
+    "stasiun_name": "Jengkol",
+    "city": "KAB. KEDIRI",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.867490",
+    "longitude": "112.150600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "566",
+    "stasiun_name": "Konto",
+    "city": "KAB. KEDIRI",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.754700",
+    "longitude": "112.282200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "567",
+    "stasiun_name": "Kuarasan",
+    "city": "KAB. KEDIRI",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.829280",
+    "longitude": "112.134400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "568",
+    "stasiun_name": "Pare",
+    "city": "KAB. KEDIRI",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.767270",
+    "longitude": "112.192400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "569",
+    "stasiun_name": "Pehsentee",
+    "city": "KAB. KEDIRI",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.811890",
+    "longitude": "112.289800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "570",
+    "stasiun_name": "Wales",
+    "city": "KAB. KEDIRI",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.920410",
+    "longitude": "112.126400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "663",
+    "stasiun_name": "Kambangan",
+    "city": "KAB. JOMBANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.387570",
+    "longitude": "112.212000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "664",
+    "stasiun_name": "Majoagung",
+    "city": "KAB. JOMBANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.570500",
+    "longitude": "112.343000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "665",
+    "stasiun_name": "Ngoro",
+    "city": "KAB. JOMBANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.690800",
+    "longitude": "112.268600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "666",
+    "stasiun_name": "Ploso",
+    "city": "KAB. JOMBANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.453800",
+    "longitude": "112.226800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "667",
+    "stasiun_name": "Pulorejo",
+    "city": "KAB. JOMBANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.673100",
+    "longitude": "112.225400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "721",
+    "stasiun_name": "Pesantren",
+    "city": "KOTA KEDIRI",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.835880",
+    "longitude": "112.053200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "571",
+    "stasiun_name": "Batu Lawang",
+    "city": "KAB. MALANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.108760",
+    "longitude": "112.636000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "572",
+    "stasiun_name": "Dampit",
+    "city": "KAB. MALANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.213870",
+    "longitude": "112.752200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "573",
+    "stasiun_name": "Gondang Legi",
+    "city": "KAB. MALANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.170900",
+    "longitude": "112.642400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "574",
+    "stasiun_name": "Tumpang",
+    "city": "KAB. MALANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.003300",
+    "longitude": "112.761800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "625",
+    "stasiun_name": "Jabung",
+    "city": "KAB. PROBOLINGGO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.744870",
+    "longitude": "113.452000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "626",
+    "stasiun_name": "Malasan",
+    "city": "KAB. PROBOLINGGO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.884400",
+    "longitude": "113.259600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "627",
+    "stasiun_name": "Phaiton",
+    "city": "KAB. PROBOLINGGO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.715880",
+    "longitude": "113.510200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "628",
+    "stasiun_name": "Gunung Gangsir",
+    "city": "KAB. PASURUAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.584780",
+    "longitude": "112.724800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "629",
+    "stasiun_name": "Japanan",
+    "city": "KAB. PASURUAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.562070",
+    "longitude": "112.692400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "630",
+    "stasiun_name": "Ngempit",
+    "city": "KAB. PASURUAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.665470",
+    "longitude": "112.854800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "631",
+    "stasiun_name": "Nguling",
+    "city": "KAB. PASURUAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.718080",
+    "longitude": "113.073200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "632",
+    "stasiun_name": "Pandaan",
+    "city": "KAB. PASURUAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.654110",
+    "longitude": "112.702800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "633",
+    "stasiun_name": "Warungdowo",
+    "city": "KAB. PASURUAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.675290",
+    "longitude": "112.887600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "634",
+    "stasiun_name": "Winongan",
+    "city": "KAB. PASURUAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.727600",
+    "longitude": "112.959600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "635",
+    "stasiun_name": "BANJARKEMANTREN",
+    "city": "KAB. SIDOARJO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.411870",
+    "longitude": "112.726200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "637",
+    "stasiun_name": "BUDURAN",
+    "city": "KAB. SIDOARJO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.427920",
+    "longitude": "112.723000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "641",
+    "stasiun_name": "PAGERWOJO",
+    "city": "KAB. SIDOARJO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.441280",
+    "longitude": "112.715600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "643",
+    "stasiun_name": "SAWOTRATAP",
+    "city": "KAB. SIDOARJO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.367800",
+    "longitude": "112.729400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "650",
+    "stasiun_name": "Prambon",
+    "city": "KAB. SIDOARJO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.461360",
+    "longitude": "112.564400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "652",
+    "stasiun_name": "Bangsal",
+    "city": "KAB. MOJOKERTO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.495300",
+    "longitude": "112.478600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "653",
+    "stasiun_name": "Brangkal",
+    "city": "KAB. MOJOKERTO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.532410",
+    "longitude": "112.407200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "654",
+    "stasiun_name": "Dinoyo",
+    "city": "KAB. MOJOKERTO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.582400",
+    "longitude": "112.421400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "655",
+    "stasiun_name": "Gempolkerep",
+    "city": "KAB. MOJOKERTO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.456670",
+    "longitude": "112.387600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "656",
+    "stasiun_name": "Lespadangan",
+    "city": "KAB. MOJOKERTO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.457400",
+    "longitude": "112.432400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "657",
+    "stasiun_name": "Pohjejer",
+    "city": "KAB. MOJOKERTO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.606380",
+    "longitude": "112.472400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "687",
+    "stasiun_name": "Jatirogo",
+    "city": "KAB. TUBAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-6.884220",
+    "longitude": "111.654600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "688",
+    "stasiun_name": "Merakurak",
+    "city": "KAB. TUBAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-6.886600",
+    "longitude": "111.999200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "689",
+    "stasiun_name": "Plumpang",
+    "city": "KAB. TUBAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.023380",
+    "longitude": "112.100000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "696",
+    "stasiun_name": "Bluluk",
+    "city": "KAB. LAMONGAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.276490",
+    "longitude": "112.134800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "697",
+    "stasiun_name": "Kedungpring",
+    "city": "KAB. LAMONGAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.186280",
+    "longitude": "112.195800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "699",
+    "stasiun_name": "Ngimbang",
+    "city": "KAB. LAMONGAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.283810",
+    "longitude": "112.215400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "703",
+    "stasiun_name": "Gresik",
+    "city": "KAB. GRESIK",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.152890",
+    "longitude": "112.657800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "705",
+    "stasiun_name": "Balega",
+    "city": "KAB. BANGKALAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.129880",
+    "longitude": "113.062600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "706",
+    "stasiun_name": "Bangkalan",
+    "city": "KAB. BANGKALAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.025270",
+    "longitude": "112.748000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "707",
+    "stasiun_name": "Kamal",
+    "city": "KAB. BANGKALAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.164980",
+    "longitude": "112.720000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "708",
+    "stasiun_name": "Kwanyar",
+    "city": "KAB. BANGKALAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.151980",
+    "longitude": "112.867600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "709",
+    "stasiun_name": "Tanah Merah",
+    "city": "KAB. BANGKALAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.089970",
+    "longitude": "112.888400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "710",
+    "stasiun_name": "Sampang",
+    "city": "KAB. SAMPANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.203060",
+    "longitude": "113.249200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "711",
+    "stasiun_name": "Pamekasan",
+    "city": "KAB. PAMEKASAN",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.161070",
+    "longitude": "113.487000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "712",
+    "stasiun_name": "Kalianget",
+    "city": "KAB. SUMENEP",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.053470",
+    "longitude": "113.942400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "713",
+    "stasiun_name": "Sumenep",
+    "city": "KAB. SUMENEP",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.006160",
+    "longitude": "113.864000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "579",
+    "stasiun_name": "Pasirian",
+    "city": "KAB. LUMAJANG",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.216490",
+    "longitude": "113.115400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "589",
+    "stasiun_name": "Ambulu",
+    "city": "KAB. JEMBER",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.347470",
+    "longitude": "113.593800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "590",
+    "stasiun_name": "Balung",
+    "city": "KAB. JEMBER",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.272890",
+    "longitude": "113.538400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "591",
+    "stasiun_name": "Kaliwates",
+    "city": "KAB. JEMBER",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.177370",
+    "longitude": "113.677400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "592",
+    "stasiun_name": "Kasiyamlor",
+    "city": "KAB. JEMBER",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.315370",
+    "longitude": "113.484200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "596",
+    "stasiun_name": "Puger",
+    "city": "KAB. JEMBER",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.372190",
+    "longitude": "113.474000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "598",
+    "stasiun_name": "Sumberbaru",
+    "city": "KAB. JEMBER",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.123900",
+    "longitude": "113.383000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "599",
+    "stasiun_name": "Sumber Salak",
+    "city": "KAB. BLITAR",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.157290",
+    "longitude": "113.894400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "612",
+    "stasiun_name": "Benculuk",
+    "city": "KAB. BANYUWANGI",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.433590",
+    "longitude": "114.226800",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "613",
+    "stasiun_name": "Kabat Baru",
+    "city": "KAB. BANYUWANGI",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.276000",
+    "longitude": "114.316000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "614",
+    "stasiun_name": "Kabat Lama",
+    "city": "KAB. BANYUWANGI",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.278080",
+    "longitude": "114.315200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "615",
+    "stasiun_name": "Kempit",
+    "city": "KAB. BANYUWANGI",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.303100",
+    "longitude": "114.076400",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "616",
+    "stasiun_name": "Krikilan",
+    "city": "KAB. BANYUWANGI",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.295900",
+    "longitude": "114.029000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "617",
+    "stasiun_name": "Srono",
+    "city": "KAB. BANYUWANGI",
+    "province": "JAWA TIMUR",
+    "latitude": "-8.402100",
+    "longitude": "114.262600",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "618",
+    "stasiun_name": "BONDOWOSO",
+    "city": "KAB. BONDOWOSO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.916200",
+    "longitude": "113.830200",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "619",
+    "stasiun_name": "Panarukan",
+    "city": "KAB. SITUBONDO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.697570",
+    "longitude": "113.936000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "620",
+    "stasiun_name": "Panji",
+    "city": "KAB. SITUBONDO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.712770",
+    "longitude": "113.997000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "621",
+    "stasiun_name": "Situbondo",
+    "city": "KAB. SITUBONDO",
+    "province": "JAWA TIMUR",
+    "latitude": "-7.713870",
+    "longitude": "113.995000",
+    "jumlah_penduduk": "41607000"
+  },
+  {
+    "stasiun_id": "2",
+    "stasiun_name": "Seulimeum",
+    "city": "KAB. ACEH BESAR",
+    "province": "ACEH",
+    "latitude": "5.363400",
+    "longitude": "95.577390",
+    "jumlah_penduduk": "5554800"
+  },
+  {
+    "stasiun_id": "3",
+    "stasiun_name": "Beureunun",
+    "city": "KAB. PIDIE",
+    "province": "ACEH",
+    "latitude": "5.278630",
+    "longitude": "95.976810",
+    "jumlah_penduduk": "5554800"
+  },
+  {
+    "stasiun_id": "4",
+    "stasiun_name": "Lammeulo",
+    "city": "KAB. PIDIE",
+    "province": "ACEH",
+    "latitude": "5.256230",
+    "longitude": "95.938230",
+    "jumlah_penduduk": "5554800"
+  },
+  {
+    "stasiun_id": "5",
+    "stasiun_name": "Sigli",
+    "city": "KAB. PIDIE",
+    "province": "ACEH",
+    "latitude": "5.379640",
+    "longitude": "95.953800",
+    "jumlah_penduduk": "5554800"
+  },
+  {
+    "stasiun_id": "8",
+    "stasiun_name": "Bireuen",
+    "city": "KAB. BIREUEN",
+    "province": "ACEH",
+    "latitude": "5.201420",
+    "longitude": "96.704410",
+    "jumlah_penduduk": "5554800"
+  },
+  {
+    "stasiun_id": "9",
+    "stasiun_name": "Kuala Simpang",
+    "city": "KAB. ACEH TAMIANG",
+    "province": "ACEH",
+    "latitude": "4.233030",
+    "longitude": "98.061580",
+    "jumlah_penduduk": "5554800"
+  },
+  {
+    "stasiun_id": "10",
+    "stasiun_name": "Semadam",
+    "city": "KAB. ACEH TAMIANG",
+    "province": "ACEH",
+    "latitude": "4.145810",
+    "longitude": "98.064210",
+    "jumlah_penduduk": "5554800"
+  },
+  {
+    "stasiun_id": "11",
+    "stasiun_name": "Banda Aceh",
+    "city": "KOTA BANDA ACEH",
+    "province": "ACEH",
+    "latitude": "5.540410",
+    "longitude": "95.326600",
+    "jumlah_penduduk": "5554800"
+  },
+  {
+    "stasiun_id": "12",
+    "stasiun_name": "Ule Lheue",
+    "city": "KOTA BANDA ACEH",
+    "province": "ACEH",
+    "latitude": "5.559020",
+    "longitude": "95.290040",
+    "jumlah_penduduk": "5554800"
+  },
+  {
+    "stasiun_id": "13",
+    "stasiun_name": "Lhokseumawe",
+    "city": "KOTA LHOKSEUMAWE",
+    "province": "ACEH",
+    "latitude": "5.183230",
+    "longitude": "97.123840",
+    "jumlah_penduduk": "5554800"
+  },
+  {
+    "stasiun_id": "14",
+    "stasiun_name": "Kuala Langsa",
+    "city": "KOTA LANGSA",
+    "province": "ACEH",
+    "latitude": "4.519590",
+    "longitude": "98.004640",
+    "jumlah_penduduk": "5554800"
+  },
+  {
+    "stasiun_id": "15",
+    "stasiun_name": "Langsa",
+    "city": "KOTA LANGSA",
+    "province": "ACEH",
+    "latitude": "4.471190",
+    "longitude": "97.962040",
+    "jumlah_penduduk": "5554800"
+  },
+  {
+    "stasiun_id": "17",
+    "stasiun_name": "Besitang",
+    "city": "KAB. LANGKAT",
+    "province": "SUMATERA UTARA",
+    "latitude": "4.042420",
+    "longitude": "98.185420",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "18",
+    "stasiun_name": "Pangkalan Brandan",
+    "city": "KAB. LANGKAT",
+    "province": "SUMATERA UTARA",
+    "latitude": "4.022830",
+    "longitude": "98.290590",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "19",
+    "stasiun_name": "Pangkalan Susu",
+    "city": "KAB. LANGKAT",
+    "province": "SUMATERA UTARA",
+    "latitude": "4.118590",
+    "longitude": "98.215030",
+    "jumlah_penduduk": "15588500"
+  },
+  {
+    "stasiun_id": "54",
+    "stasiun_name": "Ampalu",
+    "city": "KAB. SIJUNJUNG",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.651790",
+    "longitude": "100.857000",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "55",
+    "stasiun_name": "Muaro",
+    "city": "KAB. SIJUNJUNG",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.664490",
+    "longitude": "100.947800",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "56",
+    "stasiun_name": "Padang Sibusuk",
+    "city": "KAB. SIJUNJUNG",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.697570",
+    "longitude": "100.834400",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "57",
+    "stasiun_name": "BATU TABAL",
+    "city": "KAB. TANAH DATAR",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.543520",
+    "longitude": "100.522400",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "59",
+    "stasiun_name": "Kubu Kerambil",
+    "city": "KAB. TANAH DATAR",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.484860",
+    "longitude": "100.467400",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "60",
+    "stasiun_name": "Pasar Rebo",
+    "city": "KAB. TANAH DATAR",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.437680",
+    "longitude": "100.403000",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "67",
+    "stasiun_name": "Kandang Ampat",
+    "city": "KAB. PADANG PARIAMAN",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.501280",
+    "longitude": "100.339200",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "68",
+    "stasiun_name": "Parit Malintang",
+    "city": "KAB. PADANG PARIAMAN",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.622500",
+    "longitude": "100.272200",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "69",
+    "stasiun_name": "Sungai Limau",
+    "city": "KAB. PADANG PARIAMAN",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.522090",
+    "longitude": "100.058800",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "70",
+    "stasiun_name": "Halteu Baso",
+    "city": "KAB. AGAM",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.285890",
+    "longitude": "100.465800",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "71",
+    "stasiun_name": "Padang Luar",
+    "city": "KAB. AGAM",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.342900",
+    "longitude": "100.385000",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "72",
+    "stasiun_name": "Padang Tarab",
+    "city": "KAB. AGAM",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.265080",
+    "longitude": "100.523800",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "73",
+    "stasiun_name": "Tanjung Alam",
+    "city": "KAB. AGAM",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.292910",
+    "longitude": "100.410600",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "74",
+    "stasiun_name": "Limbanang",
+    "city": "KAB. LIMA PULUH KOTA",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.110900",
+    "longitude": "100.513200",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "75",
+    "stasiun_name": "Piladang",
+    "city": "KAB. LIMA PULUH KOTA",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.265870",
+    "longitude": "100.573000",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "82",
+    "stasiun_name": "PULAU AIR",
+    "city": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.959470",
+    "longitude": "100.367200",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "84",
+    "stasiun_name": "Teluk Bayur",
+    "city": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.992070",
+    "longitude": "100.380200",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "85",
+    "stasiun_name": "SINGKARAK",
+    "city": "KAB. SOLOK",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.692200",
+    "longitude": "100.599800",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "86",
+    "stasiun_name": "SOLOK",
+    "city": "KOTA SOLOK",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.787290",
+    "longitude": "100.655200",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "87",
+    "stasiun_name": "Kacang",
+    "city": "KAB. SOLOK",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.613460",
+    "longitude": "100.574200",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "88",
+    "stasiun_name": "Sungai Lassi",
+    "city": "KAB. SOLOK",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.773500",
+    "longitude": "100.732800",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "91",
+    "stasiun_name": "Silungkang",
+    "city": "KOTA SAWAHLUNTO",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.721680",
+    "longitude": "100.763000",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "92",
+    "stasiun_name": "PADANG PANJANG",
+    "city": "KOTA PADANG PANJANG",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.462590",
+    "longitude": "100.395600",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "93",
+    "stasiun_name": "BUKIT TINGGI",
+    "city": "KOTA BUKITTINGGI",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.313170",
+    "longitude": "100.376400",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "94",
+    "stasiun_name": "Payakumbuh",
+    "city": "KOTA PAYAKUMBUH",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.228520",
+    "longitude": "100.624600",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "95",
+    "stasiun_name": "KURAI TADJI",
+    "city": "KOTA PARIAMAN",
+    "province": "SUMATERA BARAT",
+    "latitude": "-0.633000",
+    "longitude": "100.170200",
+    "jumlah_penduduk": "5836200"
+  },
+  {
+    "stasiun_id": "120",
+    "stasiun_name": "Talangpadang",
+    "city": "KAB. MUARA ENIM",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.449890",
+    "longitude": "104.017400",
+    "jumlah_penduduk": "8790500"
+  },
+  {
+    "stasiun_id": "121",
+    "stasiun_name": "Tanjung Terang",
+    "city": "KAB. MUARA ENIM",
+    "province": "SUMATERA SELATAN",
+    "latitude": "-3.455380",
+    "longitude": "103.929400",
+    "jumlah_penduduk": "8790500"
+  }
+]
