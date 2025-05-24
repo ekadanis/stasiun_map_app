@@ -155,7 +155,7 @@ class _StatisticScreenState extends State<StatisticScreen> {
                         horizontal: 16,
                         vertical: 8,
                       ),
-                      child: Text(
+                      child: const Text(
                         'Detail Statistik per Provinsi',
                         style: TextStyle(
                           fontSize: 16,

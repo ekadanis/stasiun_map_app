@@ -5,7 +5,7 @@ class Stasiun {
   final String province;
   final double latitude;
   final double longitude;
-  final int jumlahPenduduk;
+  late final int jumlahPenduduk;
 
   Stasiun({
     required this.id,
@@ -14,7 +14,7 @@ class Stasiun {
     required this.province,
     required this.latitude,
     required this.longitude,
-    required this.jumlahPenduduk,
+    this.jumlahPenduduk = 0,
   });
 
   factory Stasiun.fromJson(Map<String, dynamic> json) {
