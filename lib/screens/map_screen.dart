@@ -6,164 +6,46 @@ import 'package:flutter/services.dart' show rootBundle;
 import 'package:flutter_map/flutter_map.dart';
 import 'package:flutter_map_marker_cluster/flutter_map_marker_cluster.dart';
 import 'package:latlong2/latlong.dart';
+import '../models/stasiun.dart';
 
 class MapScreen extends StatefulWidget {
   @override
   _MapScreenState createState() => _MapScreenState();
 }
 
-class _MapScreenState extends State<MapScreen> {
-  List<Polygon> polygons = [];
-  List<Marker> markers = [];
 
-  // Future<void> loadTest() async {
-  //   List.generate(30, (i) {
-  //     final lat = -7.25 + (i * 0.01); // Lokasi disebar sekitar Yogyakarta
-  //     final lng = 112.75 + (i * 0.01);
-  //     markers.add(
-  //       Marker(
-  //         point: LatLng(lat, lng),
-  //         width: 40,
-  //         height: 40,
-  //         child: const Icon(Icons.location_on, color: Colors.red, size: 40),
-  //       )
-  //     );
-  //   });
-  // }
+List<Map<String, dynamic>> parseGeoJson(String geoJsonString) {
+  final List<dynamic> decoded = jsonDecode(geoJsonString);
+  return decoded.cast<Map<String, dynamic>>();
+}
 
-  @override
-  void initState() {
-    super.initState();
-    // Buat method async terpisah untuk load data dan setState
-    WidgetsBinding.instance.addPostFrameCallback((_) {
-      loadData();
-    });
-  }
+Future<List<Polygon>> parsePolygonsInBackground(String geoJsonString) async {
+  final data = json.decode(geoJsonString);
+  List<Polygon> newPolygons = [];
 
-  Future<void> loadData() async {
-    await Future.wait([
-      loadPolygonGeoJson(),
-      loadMarkerGeoJson(),
-      // loadTest(),
-    ]);
+  List features = data['features'];
+  for (var feature in features) {
+    final geometry = feature['geometry'];
+    final type = geometry['type'];
+    final coordinates = geometry['coordinates'];
+    final String label = feature['properties']['Propinsi'];
+    final properties = feature['properties'];
 
-  }
-
-  final PopupController popupController = PopupController();
-
-  List<Map<String, dynamic>> parseGeoJson(String geoJsonString) {
-    return jsonDecode(geoJsonString) as List<Map<String, dynamic>>;
-  }
-
-  Future<void> loadMarkerGeoJson() async {
-    List<Marker> newMarkers = [];
-
-    String geoJsonString = await rootBundle.loadString('assets/stasiun.json');
-
-    final List<Map<String, dynamic>> stations =
-      await compute(parseGeoJson, geoJsonString);
-    // final List<Map<String, dynamic>> stations = List<Map<String, dynamic>>.from(jsonData);
-
-    markers.clear();
-
-    for (var station in stations) {
-      dynamic lonData = station['longitude'];
-      dynamic latData = station['latitude'];
-
-      double lon = lonData is String ? double.parse(lonData) : (lonData as num).toDouble();
-      double lat = latData is String ? double.parse(latData) : (latData as num).toDouble();
-
-      if (lon < 95 || lon > 141 || lat < -11 || lat > 6) {
-        continue;
-      }
-
-      String name = station['stasiun_name'];
-      String city = station['city'];
-      String keyValue = '$name|$city';
-
-      newMarkers.add(
-        Marker(
-          point: LatLng(lat, lon),
-          width: 40,
-          height: 40,
-          child: const Icon(Icons.location_on, color: Colors.red, size: 40),
-          key: ValueKey<String>(keyValue),
-        ),
-      );
-    }
-
-    setState(() {
-      markers = newMarkers;
-    });
-  }
-
-
-  Future<void> loadPolygonGeoJson() async {
-    String geoJsonString = await rootBundle.loadString('assets/indonesia-province-simple.json');
-    final data = json.decode(geoJsonString);
-    List<Polygon> newPolygons = [];
-
-    List features = data['features'];
-    for (var feature in features) {
-      final geometry = feature['geometry'];
-      final type = geometry['type'];
-      final coordinates = geometry['coordinates'];
-      final String label = feature['properties']['Propinsi'];
-
-      final properties = feature['properties'];
-
-
-      if (type == 'MultiPolygon') {
-        for (var polygonGroup in coordinates) {
-          for (var polygon in polygonGroup) {
-            List<LatLng> latlngPoints = [];
-            for (var coord in polygon) {
-              double lon = (coord[0] as num).toDouble();
-              double lat = (coord[1] as num).toDouble();
-              latlngPoints.add(LatLng(lat, lon));
-            }
-            final int jumlahPenduduk = properties['jumlah_penduduk'] ?? 0;
-            final int jumlahStasiun = properties['jumlah_stasiun'] ?? 0; // tambahkan default value jika perlu
-            final double ratio = jumlahPenduduk == 0 ? 0.0 : jumlahPenduduk / jumlahStasiun;
-
-            newPolygons.add(
-              Polygon(
-                label: label,
-                labelStyle: TextStyle(
-                  // fontWeight: FontWeight.bold,
-                  fontSize: 12,
-                  foreground: Paint()
-                    ..style = PaintingStyle.stroke
-                    ..strokeWidth = 1
-                    ..color = Colors.black,
-                ),
-                points: latlngPoints,
-                color: getColorByThreshold(ratio),
-                borderColor: Colors.white,
-                borderStrokeWidth: 1,
-                isFilled: true,
-              ),
-            );
-          }
-        }
-      } else if (type == 'Polygon') {
-        for (var polygon in coordinates) {
-          List<LatLng> latlngPoints = [];
-          for (var coord in polygon) {
-            double lon = (coord[0] as num).toDouble();
-            double lat = (coord[1] as num).toDouble();
-            latlngPoints.add(LatLng(lat, lon));
-          }
+    if (type == 'MultiPolygon') {
+      for (var polygonGroup in coordinates) {
+        for (var polygon in polygonGroup) {
+          List<LatLng> latlngPoints = polygon
+              .map<LatLng>((coord) => LatLng(coord[1].toDouble(), coord[0].toDouble()))
+              .toList();
 
           final int jumlahPenduduk = properties['jumlah_penduduk'] ?? 0;
-          final int jumlahStasiun = properties['jumlah_stasiun'] ?? 0; // tambahkan default value jika perlu
-          final double ratio = jumlahPenduduk == 0 ? 0.0 : jumlahStasiun / jumlahPenduduk;
+          final int jumlahStasiun = properties['jumlah_stasiun'] ?? 0;
+          final double ratio = jumlahPenduduk == 0 ? 0.0 : jumlahPenduduk / jumlahStasiun;
 
           newPolygons.add(
             Polygon(
               label: label,
               labelStyle: TextStyle(
-                // fontWeight: FontWeight.bold,
                 fontSize: 12,
                 foreground: Paint()
                   ..style = PaintingStyle.stroke
@@ -179,12 +61,100 @@ class _MapScreenState extends State<MapScreen> {
           );
         }
       }
+    } else if (type == 'Polygon') {
+      for (var polygon in coordinates) {
+        List<LatLng> latlngPoints = polygon
+            .map<LatLng>((coord) => LatLng(coord[1].toDouble(), coord[0].toDouble()))
+            .toList();
+
+        final int jumlahPenduduk = properties['jumlah_penduduk'] ?? 0;
+        final int jumlahStasiun = properties['jumlah_stasiun'] ?? 0;
+        final double ratio = jumlahPenduduk == 0 ? 0.0 : jumlahPenduduk / jumlahStasiun;
+
+        newPolygons.add(
+          Polygon(
+            label: label,
+            labelStyle: TextStyle(
+              fontSize: 12,
+              foreground: Paint()
+                ..style = PaintingStyle.stroke
+                ..strokeWidth = 1
+                ..color = Colors.black,
+            ),
+            points: latlngPoints,
+            color: getColorByThreshold(ratio),
+            borderColor: Colors.white,
+            borderStrokeWidth: 1,
+            isFilled: true,
+          ),
+        );
+      }
     }
+  }
+
+  return newPolygons;
+}
+
+
+class _MapScreenState extends State<MapScreen> {
+  List<Polygon> polygons = [];
+  List<Marker> markers = [];
+
+  @override
+  void initState() {
+    super.initState();
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      loadData();
+    });
+  }
+
+  Future<void> loadData() async {
+    await Future.wait([
+      loadPolygonGeoJson(),
+      loadMarkerGeoJson(),
+    ]);
+
+  }
+
+  final PopupController popupController = PopupController();
+
+  Future<void> loadMarkerGeoJson() async {
+    List<Marker> newMarkers = [];
+
+    String geoJsonString = await rootBundle.loadString('assets/stasiun.json');
+
+    List<Map<String, dynamic>> rawStations = await compute(parseGeoJson, geoJsonString);
+    List<Stasiun> stations = rawStations.map((e) => Stasiun.fromJson(e)).toList();
+
+    markers.clear();
+
+    for (var station in stations) {
+      newMarkers.add(
+        Marker(
+          point: LatLng(station.latitude, station.longitude),
+          width: 40,
+          height: 40,
+          child: const Icon(Icons.location_on, color: Colors.red, size: 40),
+          key: ValueKey<Stasiun>(station),
+        ),
+      );
+    }
+
+    setState(() {
+      markers = newMarkers;
+    });
+  }
+
+
+  Future<void> loadPolygonGeoJson() async {
+    String geoJsonString = await rootBundle.loadString('assets/indonesia-province-simple.json');
+    List<Polygon> newPolygons = await compute(parsePolygonsInBackground, geoJsonString);
 
     setState(() {
       polygons = newPolygons;
     });
   }
+
 
   @override
   Widget build(BuildContext context) {
@@ -223,21 +193,46 @@ class _MapScreenState extends State<MapScreen> {
                     popupOptions: PopupOptions(
                       popupController: popupController,
                       popupBuilder: (context, marker) {
-                        final keyString = (marker.key as ValueKey<String>).value;
-                        final parts = keyString.split('|');
-                        final name = parts[0];
-                        final city = parts[1];
+                        final stasiun = (marker.key as ValueKey<Stasiun>).value;
 
                         return Card(
-                          child: Padding(
-                            padding: const EdgeInsets.all(8.0),
-                            child: Column(
-                              mainAxisSize: MainAxisSize.min,
-                              crossAxisAlignment: CrossAxisAlignment.center,
-                              children: [
-                                Text('$name', style: const TextStyle(fontWeight: FontWeight.bold)),
-                                Text('$city'),
-                              ],
+                          child: IntrinsicWidth(
+                            child: Padding(
+                              padding: const EdgeInsets.all(8.0),
+                              child: Column(
+                                mainAxisSize: MainAxisSize.min,
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  Row(
+                                    children: [
+                                      const Icon(Icons.train, size: 16),
+                                      const SizedBox(width: 4),
+                                      Text(stasiun.name),
+                                    ],
+                                  ),
+                                  Row(
+                                    children: [
+                                      const Icon(Icons.location_city, size: 16),
+                                      const SizedBox(width: 4),
+                                      Text(stasiun.city),
+                                    ],
+                                  ),
+                                  Row(
+                                    children: [
+                                      const Icon(Icons.account_balance, size: 16),
+                                      const SizedBox(width: 4),
+                                      Text(stasiun.province),
+                                    ],
+                                  ),
+                                  Row(
+                                    children: [
+                                      const Icon(Icons.location_on, size: 16),
+                                      const SizedBox(width: 4),
+                                      Text('${stasiun.latitude}, ${stasiun.longitude}'),
+                                    ],
+                                  ),
+                                ],
+                              ),
                             ),
                           ),
                         );
@@ -387,48 +382,20 @@ class _MapScreenState extends State<MapScreen> {
       ),
     );
   }
+}
 
-  Color getColorByThreshold(double value) {
-    if (value > 1000000) {
-      return Color(0xFFD7250E);
-    } else if (value > 700000) {
-      return Color(0xFFFA5844);
-    } else if (value > 400000) {
-      return Color(0xFFF98476);
-    } else if (value > 200000) {
-      return Color(0xFFFBB1A7);
-    } else if (value > 0) {
-      return Color(0xFFFDDED8);
-    } else {
-      return Color(0xFFCCCCCC);
-    }
+Color getColorByThreshold(double value) {
+  if (value > 1000000) {
+    return Color(0xFFD7250E);
+  } else if (value > 700000) {
+    return Color(0xFFFA5844);
+  } else if (value > 400000) {
+    return Color(0xFFF98476);
+  } else if (value > 200000) {
+    return Color(0xFFFBB1A7);
+  } else if (value > 0) {
+    return Color(0xFFFDDED8);
+  } else {
+    return Color(0xFFCCCCCC);
   }
-
-
-// Fungsi untuk mengecek apakah titik ada di dalam poligon
-// bool isPointInPolygon(LatLng point, List<LatLng> polygon) {
-//   double x = point.latitude;
-//   double y = point.longitude;
-//   bool inside = false;
-//
-//   for (int i = 0, j = polygon.length - 1; i < polygon.length; j = i++) {
-//     double xi = polygon[i].latitude, yi = polygon[i].longitude;
-//     double xj = polygon[j].latitude, yj = polygon[j].longitude;
-//
-//     bool intersect = ((yi > y) != (yj > y)) &&
-//         (x < (xj - xi) * (y - yi) / (yj - yi) + xi);
-//     if (intersect) inside = !inside;
-//   }
-//   return inside;
-// }
-
-// int countStationsInProvince(List<Marker> station, Province province) {
-//   int count = 0;
-//   for (var station in stations) {
-//     if (isPointInPolygon(LatLng(station.lat, station.lng), province.polygon)) {
-//       count++;
-//     }
-//   }
-//   return count;
-// }
 }
