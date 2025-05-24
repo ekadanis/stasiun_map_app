@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'package:flutter/foundation.dart';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
@@ -48,24 +49,30 @@ class _MapScreenState extends State<MapScreen> {
 
   }
 
+  final PopupController popupController = PopupController();
+
+  List<Map<String, dynamic>> parseGeoJson(String geoJsonString) {
+    return jsonDecode(geoJsonString) as List<Map<String, dynamic>>;
+  }
+
   Future<void> loadMarkerGeoJson() async {
     List<Marker> newMarkers = [];
 
     String geoJsonString = await rootBundle.loadString('assets/stasiun.json');
-    final Map<String, dynamic> jsonData = json.decode(geoJsonString);
-    final List<dynamic> stations = jsonData['data'];
+
+    final List<Map<String, dynamic>> stations =
+      await compute(parseGeoJson, geoJsonString);
+    // final List<Map<String, dynamic>> stations = List<Map<String, dynamic>>.from(jsonData);
 
     markers.clear();
 
-    for (var station in stations) { // Batasi untuk testing
-      // Handle berbagai tipe data longitude/latitude
+    for (var station in stations) {
       dynamic lonData = station['longitude'];
       dynamic latData = station['latitude'];
 
       double lon = lonData is String ? double.parse(lonData) : (lonData as num).toDouble();
       double lat = latData is String ? double.parse(latData) : (latData as num).toDouble();
 
-      // Validasi koordinat Indonesia
       if (lon < 95 || lon > 141 || lat < -11 || lat > 6) {
         continue;
       }
@@ -90,7 +97,6 @@ class _MapScreenState extends State<MapScreen> {
     });
   }
 
-  final PopupController popupController = PopupController();
 
   Future<void> loadPolygonGeoJson() async {
     String geoJsonString = await rootBundle.loadString('assets/indonesia-province-simple.json');
