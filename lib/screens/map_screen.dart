@@ -14,9 +14,10 @@ class MapScreen extends StatefulWidget {
 }
 
 
-List<Map<String, dynamic>> parseGeoJson(String geoJsonString) {
+List<Stasiun> parseAndConvertStations(String geoJsonString) {
   final List<dynamic> decoded = jsonDecode(geoJsonString);
-  return decoded.cast<Map<String, dynamic>>();
+  final rawStations = decoded.cast<Map<String, dynamic>>();
+  return rawStations.map((e) => Stasiun.fromJson(e)).toList();
 }
 
 Future<List<Polygon>> parsePolygonsInBackground(String geoJsonString) async {
@@ -123,8 +124,8 @@ class _MapScreenState extends State<MapScreen> {
 
     String geoJsonString = await rootBundle.loadString('assets/stasiun.json');
 
-    List<Map<String, dynamic>> rawStations = await compute(parseGeoJson, geoJsonString);
-    List<Stasiun> stations = rawStations.map((e) => Stasiun.fromJson(e)).toList();
+    List<Stasiun> stations = await compute(parseAndConvertStations, geoJsonString);
+
 
     markers.clear();
 
@@ -159,7 +160,11 @@ class _MapScreenState extends State<MapScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Flutter Map Cluster')),
+      appBar: AppBar(
+        title: const Text('Statistik Akses Stasiun'),
+        backgroundColor: Colors.deepPurple,
+        foregroundColor: Colors.white,
+      ),
       body:
       Stack(
         children: [
@@ -169,8 +174,6 @@ class _MapScreenState extends State<MapScreen> {
               options: const MapOptions(
                 initialCenter: LatLng(-2.5, 118.0),
                 initialZoom: 3.5,
-                // interactionOptions: InteractionOptions(flags: ~InteractiveFlag.doubleTapZoom),
-                // crs: const Epsg4326(), // Tambahkan ini
               ),
               children: [
                 TileLayer(
@@ -194,7 +197,6 @@ class _MapScreenState extends State<MapScreen> {
                       popupController: popupController,
                       popupBuilder: (context, marker) {
                         final stasiun = (marker.key as ValueKey<Stasiun>).value;
-
                         return Card(
                           child: IntrinsicWidth(
                             child: Padding(
@@ -279,11 +281,11 @@ class _MapScreenState extends State<MapScreen> {
                     Container(
                       width: 20,
                       height: 20,
-                      color: Color(0xFFFDDED8),
+                      color: const Color(0xFFFDDED8),
                     ),
                     Text(
                       'Sangat Baik',
-                      style: TextStyle(
+                      style: const TextStyle(
                         fontWeight: FontWeight.bold,
                         fontSize: 16,
                       ),
@@ -296,11 +298,11 @@ class _MapScreenState extends State<MapScreen> {
                     Container(
                       width: 20,
                       height: 20,
-                      color: Color(0xFFFBB1A7),
+                      color: const Color(0xFFFBB1A7),
                     ),
                     Text(
                       'Baik',
-                      style: TextStyle(
+                      style: const TextStyle(
                         fontWeight: FontWeight.bold,
                         fontSize: 16,
                       ),
@@ -313,11 +315,11 @@ class _MapScreenState extends State<MapScreen> {
                     Container(
                       width: 20,
                       height: 20,
-                      color: Color(0xFFF98476),
+                      color: const Color(0xFFF98476),
                     ),
                     Text(
                       'Cukup',
-                      style: TextStyle(
+                      style: const TextStyle(
                         fontWeight: FontWeight.bold,
                         fontSize: 16,
                       ),
@@ -330,11 +332,11 @@ class _MapScreenState extends State<MapScreen> {
                     Container(
                       width: 20,
                       height: 20,
-                      color: Color(0xFFFA5844),
+                      color: const Color(0xFFFA5844),
                     ),
                     Text(
                       'Buruk',
-                      style: TextStyle(
+                      style: const TextStyle(
                         fontWeight: FontWeight.bold,
                         fontSize: 16,
                       ),
@@ -347,11 +349,11 @@ class _MapScreenState extends State<MapScreen> {
                     Container(
                       width: 20,
                       height: 20,
-                      color: Color(0xFFD7250E),
+                      color: const Color(0xFFD7250E),
                     ),
                     Text(
                       'Sangat Buruk',
-                      style: TextStyle(
+                      style: const TextStyle(
                         fontWeight: FontWeight.bold,
                         fontSize: 16,
                       ),
@@ -364,11 +366,11 @@ class _MapScreenState extends State<MapScreen> {
                     Container(
                       width: 20,
                       height: 20,
-                      color: Color(0xFFCCCCCC),
+                      color: const Color(0xFFCCCCCC),
                     ),
                     Text(
                       'NA',
-                      style: TextStyle(
+                      style: const TextStyle(
                         fontWeight: FontWeight.bold,
                         fontSize: 16,
                       ),
